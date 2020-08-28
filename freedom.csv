@@ -1,0 +1,3004 @@
+year,ISO_code,countries,EF,rank
+2016,ALB,Albania,7.54,34.0
+2016,DZA,Algeria,4.99,159.0
+2016,AGO,Angola,5.17,155.0
+2016,ARG,Argentina,4.84,160.0
+2016,ARM,Armenia,7.57,29.0
+2016,AUS,Australia,7.98,10.0
+2016,AUT,Austria,7.58,27.0
+2016,AZE,Azerbaijan,6.49,106.0
+2016,BHS,Bahamas,7.34,49.0
+2016,BHR,Bahrain,7.56,30.0
+2016,BGD,Bangladesh,6.3,120.0
+2016,BRD,Barbados,6.43,111.0
+2016,BLR,Belarus,6.23,123.0
+2016,BEL,Belgium,7.32,52.0
+2016,BLZ,Belize,6.86,83.0
+2016,BEN,Benin,5.98,134.0
+2016,BTN,Bhutan,7.02,73.0
+2016,BOL,Bolivia,6.23,123.0
+2016,BIH,Bosnia and Herzegovina,6.6,98.0
+2016,BWA,Botswana,7.43,44.0
+2016,BRA,Brazil,5.75,144.0
+2016,BRN,Brunei Darussalam,6.93,77.0
+2016,BGR,Bulgaria,7.41,46.0
+2016,BFA,Burkina Faso,6.05,129.0
+2016,BDI,Burundi,5.92,138.0
+2016,KHM,Cambodia,7.17,64.0
+2016,CMR,Cameroon,5.82,141.0
+2016,CAN,Canada,7.98,10.0
+2016,CPV,Cape Verde,6.68,93.0
+2016,CAF,Central Afr. Rep.,5.11,156.0
+2016,TCD,Chad,5.44,150.0
+2016,CHL,Chile,7.8,15.0
+2016,CHN,China,6.46,108.0
+2016,COL,Colombia,6.5,105.0
+2016,COD,"Congo, Dem. R.",5.67,148.0
+2016,COG,"Congo, Rep. Of",5.02,157.0
+2016,CRI,Costa Rica,7.55,33.0
+2016,CIV,Cote d'Ivoire,6.0,132.0
+2016,HRV,Croatia,6.96,75.0
+2016,CYP,Cyprus,7.71,18.0
+2016,CZE,Czech Rep.,7.56,30.0
+2016,DNK,Denmark,7.77,16.0
+2016,DOM,Dominican Rep.,7.18,62.0
+2016,ECU,Ecuador,6.06,127.0
+2016,EGY,Egypt,5.72,147.0
+2016,SLV,El Salvador,7.15,67.0
+2016,EST,Estonia,7.86,13.0
+2016,ETH,Ethiopia,5.73,146.0
+2016,FJI,Fiji,6.79,88.0
+2016,FIN,Finland,7.65,22.0
+2016,FRA,France,7.25,57.0
+2016,GAB,Gabon,5.84,140.0
+2016,GMB,"Gambia, The",7.34,49.0
+2016,GEO,Georgia,8.02,7.0
+2016,DEU,Germany,7.69,20.0
+2016,GHA,Ghana,6.6,98.0
+2016,GRC,Greece,6.46,108.0
+2016,GTM,Guatemala,7.64,23.0
+2016,GIN,Guinea,5.93,137.0
+2016,GNB,Guinea-Bissau,5.25,154.0
+2016,GUY,Guyana,6.31,119.0
+2016,HTI,Haiti,6.51,104.0
+2016,HND,Honduras,7.06,70.0
+2016,HKG,Hong Kong,8.97,1.0
+2016,HUN,Hungary,7.22,59.0
+2016,ISL,Iceland,7.22,59.0
+2016,IND,India,6.63,96.0
+2016,IDN,Indonesia,7.16,65.0
+2016,IRN,Iran,6.03,130.0
+2016,IRQ,Iraq,5.4,152.0
+2016,IRL,Ireland,8.07,5.0
+2016,ISR,Israel,7.49,38.0
+2016,ITA,Italy,7.27,54.0
+2016,JAM,Jamaica,7.18,62.0
+2016,JPN,Japan,7.47,41.0
+2016,JOR,Jordan,7.46,42.0
+2016,KAZ,Kazakhstan,7.11,69.0
+2016,KEN,Kenya,7.2,61.0
+2016,KOR,"Korea, South",7.53,35.0
+2016,KWT,Kuwait,6.75,90.0
+2016,KGZ,Kyrgyz Republic,6.93,77.0
+2016,LAO,Laos,6.91,81.0
+2016,LVA,Latvia,7.64,23.0
+2016,LBN,Lebanon,6.99,74.0
+2016,LSO,Lesotho,6.38,114.0
+2016,LBR,Liberia,6.56,100.0
+2016,LBY,Libya,4.74,161.0
+2016,LTU,Lithuania,7.86,13.0
+2016,LUX,Luxembourg,7.6,25.0
+2016,MKD,Macedonia,7.13,68.0
+2016,MDG,Madagascar,6.19,126.0
+2016,MWI,Malawi,5.86,139.0
+2016,MYS,Malaysia,6.92,79.0
+2016,MLI,Mali,5.8,143.0
+2016,MLT,Malta,7.73,17.0
+2016,MRT,Mauritania,5.96,136.0
+2016,MUS,Mauritius,8.01,8.0
+2016,MEX,Mexico,6.9,82.0
+2016,MDA,Moldova,6.64,95.0
+2016,MNG,Mongolia,7.4,48.0
+2016,MNE,Montenegro,7.04,72.0
+2016,MAR,Morocco,6.37,115.0
+2016,MOZ,Mozambique,5.5,149.0
+2016,MMR,Myanmar,5.42,151.0
+2016,NAM,Namibia,6.4,113.0
+2016,NPL,Nepal,6.53,102.0
+2016,NLD,Netherlands,7.71,18.0
+2016,NZL,New Zealand,8.49,3.0
+2016,NIC,Nicaragua,7.27,54.0
+2016,NER,Niger,6.01,131.0
+2016,NGA,Nigeria,6.32,118.0
+2016,NOR,Norway,7.6,25.0
+2016,OMN,Oman,6.76,89.0
+2016,PAK,Pakistan,6.0,132.0
+2016,PAN,Panama,7.58,27.0
+2016,PNG,Pap. New Guinea,6.25,122.0
+2016,PRY,Paraguay,6.95,76.0
+2016,PER,Peru,7.43,44.0
+2016,PHL,Philippines,7.34,49.0
+2016,POL,Poland,7.27,54.0
+2016,PRT,Portugal,7.51,36.0
+2016,QAT,Qatar,7.49,38.0
+2016,ROU,Romania,7.69,20.0
+2016,RUS,Russia,6.83,87.0
+2016,RWA,Rwanda,7.48,40.0
+2016,SAU,Saudi Arabia,6.52,103.0
+2016,SEN,Senegal,6.22,125.0
+2016,SRB,Serbia,6.85,84.0
+2016,SYC,Seychelles,7.23,58.0
+2016,SLE,Sierra Leone,5.75,144.0
+2016,SGP,Singapore,8.84,2.0
+2016,SVK,Slovak Rep,7.3,53.0
+2016,SVN,Slovenia,7.05,71.0
+2016,ZAF,South Africa,6.65,94.0
+2016,ESP,Spain,7.56,30.0
+2016,LKA,Sri Lanka,6.49,106.0
+2016,SDN,Sudan,5.36,153.0
+2016,SUR,Suriname,6.36,116.0
+2016,SWZ,Swaziland,6.46,108.0
+2016,SWE,Sweden,7.44,43.0
+2016,CHE,Switzerland,8.39,4.0
+2016,SYR,Syria,5.02,157.0
+2016,TWN,Taiwan,7.89,12.0
+2016,TJK,Tajikistan,6.72,92.0
+2016,TZA,Tanzania,6.92,79.0
+2016,THA,Thailand,6.85,84.0
+2016,TLS,Timor-Leste,6.55,101.0
+2016,TGO,Togo,5.82,141.0
+2016,TTO,Trinidad & Tob.,6.73,91.0
+2016,TUN,Tunisia,6.29,121.0
+2016,TUR,Turkey,6.84,86.0
+2016,UGA,Uganda,7.41,46.0
+2016,UKR,Ukraine,5.98,134.0
+2016,ARE,Unit. Arab Em.,7.5,37.0
+2016,GBR,United Kingdom,8.0,9.0
+2016,USA,United States,8.03,6.0
+2016,URY,Uruguay,7.16,65.0
+2016,VEN,Venezuela,2.88,162.0
+2016,VNM,Vietnam,6.42,112.0
+2016,YEM,"Yemen, Rep.",6.34,117.0
+2016,ZMB,Zambia,6.61,97.0
+2016,ZWE,Zimbabwe,6.06,127.0
+2015,ALB,Albania,7.53,34.0
+2015,DZA,Algeria,4.83,156.0
+2015,AGO,Angola,5.44,148.0
+2015,ARG,Argentina,4.98,153.0
+2015,ARM,Armenia,7.59,29.0
+2015,AUS,Australia,8.0,8.0
+2015,AUT,Austria,7.64,27.0
+2015,AZE,Azerbaijan,6.38,115.0
+2015,BHS,Bahamas,7.35,50.0
+2015,BHR,Bahrain,7.37,48.0
+2015,BGD,Bangladesh,6.33,117.0
+2015,BRD,Barbados,6.5,107.0
+2015,BEL,Belgium,7.43,43.0
+2015,BLZ,Belize,6.81,85.0
+2015,BEN,Benin,5.78,134.0
+2015,BTN,Bhutan,7.11,70.0
+2015,BOL,Bolivia,6.05,126.0
+2015,BIH,Bosnia and Herzegovina,6.63,96.0
+2015,BWA,Botswana,7.35,50.0
+2015,BRA,Brazil,5.75,140.0
+2015,BRN,Brunei Darussalam,6.77,88.0
+2015,BGR,Bulgaria,7.4,46.0
+2015,BFA,Burkina Faso,6.03,127.0
+2015,BDI,Burundi,5.87,131.0
+2015,KHM,Cambodia,7.2,64.0
+2015,CMR,Cameroon,5.79,133.0
+2015,CAN,Canada,7.91,12.0
+2015,CPV,Cape Verde,6.67,92.0
+2015,CAF,Central Afr. Rep.,4.63,158.0
+2015,TCD,Chad,5.23,152.0
+2015,CHL,Chile,7.79,14.0
+2015,CHN,China,6.39,113.0
+2015,COL,Colombia,6.55,103.0
+2015,COD,"Congo, Dem. R.",5.78,134.0
+2015,COG,"Congo, Rep. Of",4.81,157.0
+2015,CRI,Costa Rica,7.51,36.0
+2015,CIV,Cote d'Ivoire,5.93,129.0
+2015,HRV,Croatia,7.04,73.0
+2015,CYP,Cyprus,7.69,22.0
+2015,CZE,Czech Rep.,7.49,37.0
+2015,DNK,Denmark,7.75,16.0
+2015,DOM,Dominican Rep.,7.24,61.0
+2015,ECU,Ecuador,6.09,124.0
+2015,EGY,Egypt,5.77,138.0
+2015,SLV,El Salvador,7.14,69.0
+2015,EST,Estonia,7.93,10.0
+2015,ETH,Ethiopia,5.55,147.0
+2015,FJI,Fiji,6.82,84.0
+2015,FIN,Finland,7.71,20.0
+2015,FRA,France,7.35,50.0
+2015,GAB,Gabon,5.78,134.0
+2015,GMB,"Gambia, The",7.22,63.0
+2015,GEO,Georgia,7.98,9.0
+2015,DEU,Germany,7.67,24.0
+2015,GHA,Ghana,6.52,105.0
+2015,GRC,Greece,6.45,111.0
+2015,GTM,Guatemala,7.69,22.0
+2015,GIN,Guinea,5.74,141.0
+2015,GNB,Guinea-Bissau,5.58,146.0
+2015,GUY,Guyana,6.52,105.0
+2015,HTI,Haiti,6.54,104.0
+2015,HND,Honduras,7.35,50.0
+2015,HKG,Hong Kong,8.97,1.0
+2015,HUN,Hungary,7.19,65.0
+2015,ISL,Iceland,7.25,59.0
+2015,IND,India,6.61,98.0
+2015,IDN,Indonesia,7.0,75.0
+2015,IRN,Iran,5.4,149.0
+2015,IRL,Ireland,8.25,5.0
+2015,ISR,Israel,7.47,38.0
+2015,ITA,Italy,7.31,55.0
+2015,JAM,Jamaica,7.25,59.0
+2015,JPN,Japan,7.46,41.0
+2015,JOR,Jordan,7.47,38.0
+2015,KAZ,Kazakhstan,7.26,58.0
+2015,KEN,Kenya,7.11,70.0
+2015,KOR,"Korea, South",7.55,32.0
+2015,KWT,Kuwait,6.59,101.0
+2015,KGZ,Kyrgyz Republic,6.81,85.0
+2015,LAO,Laos,6.97,76.0
+2015,LVA,Latvia,7.72,18.0
+2015,LBN,Lebanon,7.01,74.0
+2015,LSO,Lesotho,6.49,109.0
+2015,LBR,Liberia,6.87,80.0
+2015,LBY,Libya,4.89,155.0
+2015,LTU,Lithuania,7.86,13.0
+2015,LUX,Luxembourg,7.64,27.0
+2015,MKD,Macedonia,7.16,66.0
+2015,MDG,Madagascar,6.31,119.0
+2015,MWI,Malawi,5.76,139.0
+2015,MYS,Malaysia,7.15,67.0
+2015,MLI,Mali,5.82,132.0
+2015,MLT,Malta,7.72,18.0
+2015,MRT,Mauritania,5.7,143.0
+2015,MUS,Mauritius,8.02,6.0
+2015,MEX,Mexico,6.88,79.0
+2015,MDA,Moldova,6.57,102.0
+2015,MNG,Mongolia,7.38,47.0
+2015,MNE,Montenegro,6.74,90.0
+2015,MAR,Morocco,6.36,116.0
+2015,MOZ,Mozambique,5.63,145.0
+2015,MMR,Myanmar,5.32,151.0
+2015,NAM,Namibia,6.61,98.0
+2015,NPL,Nepal,6.5,107.0
+2015,NLD,Netherlands,7.73,17.0
+2015,NZL,New Zealand,8.48,3.0
+2015,NIC,Nicaragua,7.27,57.0
+2015,NER,Niger,5.74,141.0
+2015,NGA,Nigeria,6.39,113.0
+2015,NOR,Norway,7.65,25.0
+2015,OMN,Oman,6.64,95.0
+2015,PAK,Pakistan,5.92,130.0
+2015,PAN,Panama,7.57,30.0
+2015,PNG,Pap. New Guinea,6.17,122.0
+2015,PRY,Paraguay,6.91,78.0
+2015,PER,Peru,7.47,38.0
+2015,PHL,Philippines,7.43,43.0
+2015,POL,Poland,7.36,49.0
+2015,PRT,Portugal,7.55,32.0
+2015,QAT,Qatar,7.43,43.0
+2015,ROU,Romania,7.7,21.0
+2015,RUS,Russia,6.65,93.0
+2015,RWA,Rwanda,7.56,31.0
+2015,SAU,Saudi Arabia,6.24,121.0
+2015,SEN,Senegal,6.15,123.0
+2015,SRB,Serbia,6.76,89.0
+2015,SYC,Seychelles,7.33,54.0
+2015,SLE,Sierra Leone,5.78,134.0
+2015,SGP,Singapore,8.84,2.0
+2015,SVK,Slovak Rep,7.24,61.0
+2015,SVN,Slovenia,7.08,72.0
+2015,ZAF,South Africa,6.84,82.0
+2015,ESP,Spain,7.53,34.0
+2015,LKA,Sri Lanka,6.63,96.0
+2015,SUR,Suriname,6.85,81.0
+2015,SWZ,Swaziland,6.44,112.0
+2015,SWE,Sweden,7.65,25.0
+2015,CHE,Switzerland,8.37,4.0
+2015,SYR,Syria,4.96,154.0
+2015,TWN,Taiwan,7.76,15.0
+2015,TJK,Tajikistan,6.65,93.0
+2015,TZA,Tanzania,6.92,77.0
+2015,THA,Thailand,6.8,87.0
+2015,TLS,Timor-Leste,6.6,100.0
+2015,TGO,Togo,5.69,144.0
+2015,TTO,Trinidad & Tob.,6.48,110.0
+2015,TUN,Tunisia,6.33,117.0
+2015,TUR,Turkey,6.84,82.0
+2015,UGA,Uganda,7.3,56.0
+2015,UKR,Ukraine,5.4,149.0
+2015,ARE,Unit. Arab Em.,7.45,42.0
+2015,GBR,United Kingdom,8.01,7.0
+2015,USA,United States,7.93,10.0
+2015,URY,Uruguay,7.15,67.0
+2015,VEN,Venezuela,2.96,159.0
+2015,VNM,Vietnam,6.3,120.0
+2015,YEM,"Yemen, Rep.",6.07,125.0
+2015,ZMB,Zambia,6.74,90.0
+2015,ZWE,Zimbabwe,6.01,128.0
+2014,ALB,Albania,7.48,38.0
+2014,DZA,Algeria,5.01,152.0
+2014,AGO,Angola,5.13,151.0
+2014,ARG,Argentina,4.49,158.0
+2014,ARM,Armenia,7.7,23.0
+2014,AUS,Australia,8.02,7.0
+2014,AUT,Austria,7.68,24.0
+2014,AZE,Azerbaijan,6.4,115.0
+2014,BHS,Bahamas,7.32,55.0
+2014,BHR,Bahrain,7.36,49.0
+2014,BGD,Bangladesh,6.3,119.0
+2014,BRD,Barbados,6.63,100.0
+2014,BEL,Belgium,7.59,31.0
+2014,BLZ,Belize,6.9,82.0
+2014,BEN,Benin,5.94,130.0
+2014,BTN,Bhutan,6.99,77.0
+2014,BOL,Bolivia,6.21,124.0
+2014,BIH,Bosnia and Herzegovina,6.78,89.0
+2014,BWA,Botswana,7.24,62.0
+2014,BRA,Brazil,5.93,132.0
+2014,BRN,Brunei Darussalam,6.89,83.0
+2014,BGR,Bulgaria,7.37,48.0
+2014,BFA,Burkina Faso,6.02,126.0
+2014,BDI,Burundi,5.97,129.0
+2014,KHM,Cambodia,7.16,68.0
+2014,CMR,Cameroon,5.9,134.0
+2014,CAN,Canada,8.22,5.0
+2014,CPV,Cape Verde,6.56,107.0
+2014,CAF,Central Afr. Rep.,5.16,150.0
+2014,TCD,Chad,4.97,153.0
+2014,CHL,Chile,7.84,12.0
+2014,CHN,China,6.38,116.0
+2014,COL,Colombia,6.58,104.0
+2014,COD,"Congo, Dem. R.",5.23,149.0
+2014,COG,"Congo, Rep. Of",4.69,157.0
+2014,CRI,Costa Rica,7.5,37.0
+2014,CIV,Cote d'Ivoire,6.0,127.0
+2014,HRV,Croatia,7.0,76.0
+2014,CYP,Cyprus,7.33,54.0
+2014,CZE,Czech Rep.,7.46,40.0
+2014,DNK,Denmark,7.81,13.0
+2014,DOM,Dominican Rep.,7.26,59.0
+2014,ECU,Ecuador,5.66,142.0
+2014,EGY,Egypt,5.78,139.0
+2014,SLV,El Salvador,7.35,52.0
+2014,EST,Estonia,7.79,17.0
+2014,ETH,Ethiopia,5.46,146.0
+2014,FJI,Fiji,6.63,100.0
+2014,FIN,Finland,7.79,17.0
+2014,FRA,France,7.36,49.0
+2014,GAB,Gabon,5.57,145.0
+2014,GMB,"Gambia, The",7.35,52.0
+2014,GEO,Georgia,8.02,7.0
+2014,DEU,Germany,7.67,26.0
+2014,GHA,Ghana,6.41,114.0
+2014,GRC,Greece,6.81,88.0
+2014,GTM,Guatemala,7.65,27.0
+2014,GIN,Guinea,5.62,144.0
+2014,GNB,Guinea-Bissau,5.35,148.0
+2014,GUY,Guyana,6.21,124.0
+2014,HTI,Haiti,6.58,104.0
+2014,HND,Honduras,7.26,59.0
+2014,HKG,Hong Kong,9.0,1.0
+2014,HUN,Hungary,7.36,49.0
+2014,ISL,Iceland,7.23,64.0
+2014,IND,India,6.23,122.0
+2014,IDN,Indonesia,7.02,74.0
+2014,IRN,Iran,4.89,155.0
+2014,IRL,Ireland,8.12,6.0
+2014,ISR,Israel,7.45,42.0
+2014,ITA,Italy,7.25,61.0
+2014,JAM,Jamaica,7.13,70.0
+2014,JPN,Japan,7.52,36.0
+2014,JOR,Jordan,7.54,34.0
+2014,KAZ,Kazakhstan,7.23,64.0
+2014,KEN,Kenya,7.1,71.0
+2014,KOR,"Korea, South",7.55,33.0
+2014,KWT,Kuwait,6.77,91.0
+2014,KGZ,Kyrgyz Republic,6.96,80.0
+2014,LAO,Laos,6.92,81.0
+2014,LVA,Latvia,7.81,13.0
+2014,LBN,Lebanon,6.98,79.0
+2014,LSO,Lesotho,6.47,110.0
+2014,LBR,Liberia,7.18,66.0
+2014,LBY,Libya,4.81,156.0
+2014,LTU,Lithuania,7.91,10.0
+2014,LUX,Luxembourg,7.78,19.0
+2014,MKD,Macedonia,7.24,62.0
+2014,MDG,Madagascar,6.44,113.0
+2014,MWI,Malawi,5.94,130.0
+2014,MYS,Malaysia,7.1,71.0
+2014,MLI,Mali,5.81,136.0
+2014,MLT,Malta,7.8,16.0
+2014,MRT,Mauritania,5.68,141.0
+2014,MUS,Mauritius,8.02,7.0
+2014,MEX,Mexico,6.85,87.0
+2014,MDA,Moldova,6.65,99.0
+2014,MNG,Mongolia,7.32,55.0
+2014,MNE,Montenegro,7.17,67.0
+2014,MAR,Morocco,6.28,120.0
+2014,MOZ,Mozambique,5.75,140.0
+2014,MMR,Myanmar,5.36,147.0
+2014,NAM,Namibia,6.75,93.0
+2014,NPL,Nepal,6.45,112.0
+2014,NLD,Netherlands,7.74,21.0
+2014,NZL,New Zealand,8.48,3.0
+2014,NIC,Nicaragua,7.3,58.0
+2014,NER,Niger,5.79,137.0
+2014,NGA,Nigeria,6.38,116.0
+2014,NOR,Norway,7.62,28.0
+2014,OMN,Oman,7.05,73.0
+2014,PAK,Pakistan,5.89,135.0
+2014,PAN,Panama,7.48,38.0
+2014,PNG,Pap. New Guinea,6.28,120.0
+2014,PRY,Paraguay,6.87,84.0
+2014,PER,Peru,7.53,35.0
+2014,PHL,Philippines,7.4,47.0
+2014,POL,Poland,7.43,45.0
+2014,PRT,Portugal,7.6,30.0
+2014,QAT,Qatar,7.68,24.0
+2014,ROU,Romania,7.74,21.0
+2014,RUS,Russia,6.59,103.0
+2014,RWA,Rwanda,7.43,45.0
+2014,SAU,Saudi Arabia,6.55,108.0
+2014,SEN,Senegal,6.23,122.0
+2014,SRB,Serbia,6.71,96.0
+2014,SYC,Seychelles,7.46,40.0
+2014,SLE,Sierra Leone,6.0,127.0
+2014,SGP,Singapore,8.84,2.0
+2014,SVK,Slovak Rep,7.44,44.0
+2014,SVN,Slovenia,7.01,75.0
+2014,ZAF,South Africa,6.87,84.0
+2014,ESP,Spain,7.45,42.0
+2014,LKA,Sri Lanka,6.58,104.0
+2014,SUR,Suriname,6.78,89.0
+2014,SWZ,Swaziland,6.47,110.0
+2014,SWE,Sweden,7.62,28.0
+2014,CHE,Switzerland,8.31,4.0
+2014,SYR,Syria,4.97,153.0
+2014,TWN,Taiwan,7.76,20.0
+2014,TJK,Tajikistan,6.68,97.0
+2014,TZA,Tanzania,6.76,92.0
+2014,THA,Thailand,6.62,102.0
+2014,TLS,Timor-Leste,6.68,97.0
+2014,TGO,Togo,5.79,137.0
+2014,TTO,Trinidad & Tob.,6.75,93.0
+2014,TUN,Tunisia,6.48,109.0
+2014,TUR,Turkey,6.87,84.0
+2014,UGA,Uganda,7.31,57.0
+2014,UKR,Ukraine,5.91,133.0
+2014,ARE,Unit. Arab Em.,7.56,32.0
+2014,GBR,United Kingdom,7.91,10.0
+2014,USA,United States,7.81,13.0
+2014,URY,Uruguay,7.14,69.0
+2014,VEN,Venezuela,3.28,159.0
+2014,VNM,Vietnam,6.32,118.0
+2014,YEM,"Yemen, Rep.",6.74,95.0
+2014,ZMB,Zambia,6.99,77.0
+2014,ZWE,Zimbabwe,5.63,143.0
+2013,ALB,Albania,7.27,53.0
+2013,DZA,Algeria,5.04,150.0
+2013,AGO,Angola,5.25,148.0
+2013,ARG,Argentina,4.88,153.0
+2013,ARM,Armenia,7.69,17.0
+2013,AUS,Australia,7.92,9.0
+2013,AUT,Austria,7.63,25.0
+2013,AZE,Azerbaijan,6.2,123.0
+2013,BHS,Bahamas,7.33,48.0
+2013,BHR,Bahrain,7.33,48.0
+2013,BGD,Bangladesh,6.37,113.0
+2013,BRD,Barbados,6.68,92.0
+2013,BEL,Belgium,7.37,42.0
+2013,BLZ,Belize,7.03,72.0
+2013,BEN,Benin,6.44,108.0
+2013,BTN,Bhutan,6.93,80.0
+2013,BOL,Bolivia,6.4,110.0
+2013,BIH,Bosnia and Herzegovina,6.61,100.0
+2013,BWA,Botswana,7.27,53.0
+2013,BRA,Brazil,6.05,127.0
+2013,BRN,Brunei Darussalam,6.75,89.0
+2013,BGR,Bulgaria,7.33,48.0
+2013,BFA,Burkina Faso,5.96,131.0
+2013,BDI,Burundi,5.96,131.0
+2013,KHM,Cambodia,7.17,63.0
+2013,CMR,Cameroon,5.95,133.0
+2013,CAN,Canada,8.03,7.0
+2013,CPV,Cape Verde,6.62,98.0
+2013,CAF,Central Afr. Rep.,5.71,139.0
+2013,TCD,Chad,4.99,152.0
+2013,CHL,Chile,7.88,10.0
+2013,CHN,China,6.39,111.0
+2013,COL,Colombia,6.67,94.0
+2013,COD,"Congo, Dem. R.",5.36,145.0
+2013,COG,"Congo, Rep. Of",4.55,155.0
+2013,CRI,Costa Rica,7.48,35.0
+2013,CIV,Cote d'Ivoire,5.9,136.0
+2013,HRV,Croatia,6.9,81.0
+2013,CYP,Cyprus,7.07,70.0
+2013,CZE,Czech Rep.,7.37,42.0
+2013,DNK,Denmark,7.68,18.0
+2013,DOM,Dominican Rep.,7.24,57.0
+2013,ECU,Ecuador,5.88,137.0
+2013,EGY,Egypt,6.01,130.0
+2013,SLV,El Salvador,7.2,60.0
+2013,EST,Estonia,7.7,15.0
+2013,ETH,Ethiopia,5.53,143.0
+2013,FJI,Fiji,6.44,108.0
+2013,FIN,Finland,7.7,15.0
+2013,FRA,France,7.23,59.0
+2013,GAB,Gabon,5.42,144.0
+2013,GMB,"Gambia, The",7.32,51.0
+2013,GEO,Georgia,7.87,11.0
+2013,DEU,Germany,7.66,21.0
+2013,GHA,Ghana,6.55,104.0
+2013,GRC,Greece,6.88,82.0
+2013,GTM,Guatemala,7.66,21.0
+2013,GIN,Guinea,5.65,141.0
+2013,GNB,Guinea-Bissau,5.07,149.0
+2013,GUY,Guyana,6.04,129.0
+2013,HTI,Haiti,6.36,116.0
+2013,HND,Honduras,7.13,65.0
+2013,HKG,Hong Kong,8.96,1.0
+2013,HUN,Hungary,7.34,46.0
+2013,ISL,Iceland,7.02,73.0
+2013,IND,India,6.36,116.0
+2013,IDN,Indonesia,7.01,74.0
+2013,IRN,Iran,5.04,150.0
+2013,IRL,Ireland,8.04,6.0
+2013,ISR,Israel,7.42,37.0
+2013,ITA,Italy,7.19,61.0
+2013,JAM,Jamaica,7.3,52.0
+2013,JPN,Japan,7.54,30.0
+2013,JOR,Jordan,7.65,24.0
+2013,KAZ,Kazakhstan,7.13,65.0
+2013,KEN,Kenya,7.12,67.0
+2013,KOR,"Korea, South",7.36,44.0
+2013,KWT,Kuwait,6.84,85.0
+2013,KGZ,Kyrgyz Republic,6.76,88.0
+2013,LVA,Latvia,7.68,18.0
+2013,LBN,Lebanon,6.97,76.0
+2013,LSO,Lesotho,6.32,121.0
+2013,LBY,Libya,4.78,154.0
+2013,LTU,Lithuania,7.72,13.0
+2013,LUX,Luxembourg,7.61,28.0
+2013,MKD,Macedonia,7.19,61.0
+2013,MDG,Madagascar,6.6,102.0
+2013,MWI,Malawi,5.92,135.0
+2013,MYS,Malaysia,7.07,70.0
+2013,MLI,Mali,5.95,133.0
+2013,MLT,Malta,7.66,21.0
+2013,MRT,Mauritania,5.6,142.0
+2013,MUS,Mauritius,8.12,5.0
+2013,MEX,Mexico,6.77,86.0
+2013,MDA,Moldova,6.55,104.0
+2013,MNG,Mongolia,7.17,63.0
+2013,MNE,Montenegro,7.08,68.0
+2013,MAR,Morocco,6.37,113.0
+2013,MOZ,Mozambique,5.78,138.0
+2013,MMR,Myanmar,5.35,146.0
+2013,NAM,Namibia,6.63,97.0
+2013,NPL,Nepal,6.36,116.0
+2013,NLD,Netherlands,7.62,27.0
+2013,NZL,New Zealand,8.48,3.0
+2013,NIC,Nicaragua,7.34,46.0
+2013,NER,Niger,5.69,140.0
+2013,NGA,Nigeria,6.39,111.0
+2013,NOR,Norway,7.6,29.0
+2013,OMN,Oman,6.98,75.0
+2013,PAK,Pakistan,6.14,125.0
+2013,PAN,Panama,7.38,39.0
+2013,PNG,Pap. New Guinea,6.96,77.0
+2013,PRY,Paraguay,6.95,78.0
+2013,PER,Peru,7.52,33.0
+2013,PHL,Philippines,7.54,30.0
+2013,POL,Poland,7.25,56.0
+2013,PRT,Portugal,7.52,33.0
+2013,QAT,Qatar,7.54,30.0
+2013,ROU,Romania,7.63,25.0
+2013,RUS,Russia,6.62,98.0
+2013,RWA,Rwanda,7.4,38.0
+2013,SAU,Saudi Arabia,6.55,104.0
+2013,SEN,Senegal,6.2,123.0
+2013,SRB,Serbia,6.68,92.0
+2013,SYC,Seychelles,7.24,57.0
+2013,SLE,Sierra Leone,6.12,126.0
+2013,SGP,Singapore,8.64,2.0
+2013,SVK,Slovak Rep,7.38,39.0
+2013,SVN,Slovenia,6.75,89.0
+2013,ZAF,South Africa,7.08,68.0
+2013,ESP,Spain,7.35,45.0
+2013,LKA,Sri Lanka,6.64,95.0
+2013,SUR,Suriname,6.72,91.0
+2013,SWZ,Swaziland,6.56,103.0
+2013,SWE,Sweden,7.44,36.0
+2013,CHE,Switzerland,8.22,4.0
+2013,SYR,Syria,4.07,156.0
+2013,TWN,Taiwan,7.72,13.0
+2013,TJK,Tajikistan,6.55,104.0
+2013,TZA,Tanzania,6.85,84.0
+2013,THA,Thailand,6.61,100.0
+2013,TLS,Timor-Leste,6.64,95.0
+2013,TGO,Togo,6.25,122.0
+2013,TTO,Trinidad & Tob.,6.77,86.0
+2013,TUN,Tunisia,6.35,119.0
+2013,TUR,Turkey,6.86,83.0
+2013,UGA,Uganda,7.38,39.0
+2013,UKR,Ukraine,6.05,127.0
+2013,ARE,Unit. Arab Em.,7.68,18.0
+2013,GBR,United Kingdom,7.96,8.0
+2013,USA,United States,7.74,12.0
+2013,URY,Uruguay,7.26,55.0
+2013,VEN,Venezuela,3.32,157.0
+2013,VNM,Vietnam,6.37,113.0
+2013,YEM,"Yemen, Rep.",6.33,120.0
+2013,ZMB,Zambia,6.95,78.0
+2013,ZWE,Zimbabwe,5.3,147.0
+2012,ALB,Albania,7.2,59.0
+2012,DZA,Algeria,4.95,149.0
+2012,AGO,Angola,5.28,141.0
+2012,ARG,Argentina,5.04,146.0
+2012,ARM,Armenia,7.75,13.0
+2012,AUS,Australia,7.96,8.0
+2012,AUT,Austria,7.62,21.0
+2012,AZE,Azerbaijan,6.32,113.0
+2012,BHS,Bahamas,7.31,50.0
+2012,BHR,Bahrain,7.33,46.0
+2012,BGD,Bangladesh,6.24,116.0
+2012,BRD,Barbados,6.67,92.0
+2012,BEL,Belgium,7.35,42.0
+2012,BLZ,Belize,7.13,64.0
+2012,BEN,Benin,5.74,134.0
+2012,BOL,Bolivia,6.38,110.0
+2012,BIH,Bosnia and Herzegovina,6.79,85.0
+2012,BWA,Botswana,7.25,55.0
+2012,BRA,Brazil,6.24,116.0
+2012,BRN,Brunei Darussalam,7.07,67.0
+2012,BGR,Bulgaria,7.37,39.0
+2012,BFA,Burkina Faso,5.81,133.0
+2012,BDI,Burundi,5.22,143.0
+2012,KHM,Cambodia,6.92,77.0
+2012,CMR,Cameroon,6.05,126.0
+2012,CAN,Canada,7.99,6.0
+2012,CPV,Cape Verde,6.56,101.0
+2012,CAF,Central Afr. Rep.,4.93,150.0
+2012,TCD,Chad,4.72,151.0
+2012,CHL,Chile,7.81,11.0
+2012,CHN,China,6.37,111.0
+2012,COL,Colombia,6.72,89.0
+2012,COD,"Congo, Dem. R.",5.2,144.0
+2012,COG,"Congo, Rep. Of",4.39,152.0
+2012,CRI,Costa Rica,7.53,28.0
+2012,CIV,Cote d'Ivoire,5.64,136.0
+2012,HRV,Croatia,6.93,75.0
+2012,CYP,Cyprus,7.47,32.0
+2012,CZE,Czech Rep.,7.42,36.0
+2012,DNK,Denmark,7.56,24.0
+2012,DOM,Dominican Rep.,7.03,69.0
+2012,ECU,Ecuador,6.03,127.0
+2012,EGY,Egypt,6.14,124.0
+2012,SLV,El Salvador,7.09,65.0
+2012,EST,Estonia,7.68,17.0
+2012,ETH,Ethiopia,5.58,137.0
+2012,FJI,Fiji,6.84,82.0
+2012,FIN,Finland,7.81,11.0
+2012,FRA,France,7.27,53.0
+2012,GAB,Gabon,5.37,139.0
+2012,GMB,"Gambia, The",6.87,80.0
+2012,GEO,Georgia,7.75,13.0
+2012,DEU,Germany,7.64,19.0
+2012,GHA,Ghana,6.44,105.0
+2012,GRC,Greece,6.67,92.0
+2012,GTM,Guatemala,7.41,37.0
+2012,GNB,Guinea-Bissau,5.96,130.0
+2012,GUY,Guyana,6.3,114.0
+2012,HTI,Haiti,6.0,128.0
+2012,HND,Honduras,7.16,61.0
+2012,HKG,Hong Kong,8.96,1.0
+2012,HUN,Hungary,7.33,46.0
+2012,ISL,Iceland,6.94,74.0
+2012,IND,India,6.54,103.0
+2012,IDN,Indonesia,6.84,82.0
+2012,IRN,Iran,4.96,148.0
+2012,IRL,Ireland,7.98,7.0
+2012,ISR,Israel,7.36,40.0
+2012,ITA,Italy,7.22,58.0
+2012,JAM,Jamaica,7.14,62.0
+2012,JPN,Japan,7.66,18.0
+2012,JOR,Jordan,7.56,24.0
+2012,KAZ,Kazakhstan,7.14,62.0
+2012,KEN,Kenya,7.09,65.0
+2012,KOR,"Korea, South",7.45,35.0
+2012,KWT,Kuwait,6.93,75.0
+2012,KGZ,Kyrgyz Republic,6.67,92.0
+2012,LVA,Latvia,7.56,24.0
+2012,LBN,Lebanon,6.96,73.0
+2012,LSO,Lesotho,6.19,120.0
+2012,LTU,Lithuania,7.52,29.0
+2012,LUX,Luxembourg,7.46,34.0
+2012,MKD,Macedonia,7.23,57.0
+2012,MDG,Madagascar,6.48,104.0
+2012,MWI,Malawi,6.18,121.0
+2012,MYS,Malaysia,6.85,81.0
+2012,MLI,Mali,5.99,129.0
+2012,MLT,Malta,7.63,20.0
+2012,MRT,Mauritania,5.68,135.0
+2012,MUS,Mauritius,8.15,5.0
+2012,MEX,Mexico,6.71,90.0
+2012,MDA,Moldova,6.64,96.0
+2012,MNG,Mongolia,7.02,70.0
+2012,MNE,Montenegro,7.25,55.0
+2012,MAR,Morocco,6.34,112.0
+2012,MOZ,Mozambique,5.93,131.0
+2012,MMR,Myanmar,5.0,147.0
+2012,NAM,Namibia,6.79,85.0
+2012,NPL,Nepal,6.12,125.0
+2012,NLD,Netherlands,7.54,27.0
+2012,NZL,New Zealand,8.47,3.0
+2012,NIC,Nicaragua,7.36,40.0
+2012,NER,Niger,5.55,138.0
+2012,NGA,Nigeria,6.22,119.0
+2012,NOR,Norway,7.58,22.0
+2012,OMN,Oman,7.04,68.0
+2012,PAK,Pakistan,6.15,123.0
+2012,PAN,Panama,7.34,44.0
+2012,PNG,Pap. New Guinea,6.91,78.0
+2012,PRY,Paraguay,6.89,79.0
+2012,PER,Peru,7.57,23.0
+2012,PHL,Philippines,7.27,53.0
+2012,POL,Poland,7.32,48.0
+2012,PRT,Portugal,7.31,50.0
+2012,QAT,Qatar,7.5,30.0
+2012,ROU,Romania,7.47,32.0
+2012,RUS,Russia,6.65,95.0
+2012,RWA,Rwanda,7.32,48.0
+2012,SAU,Saudi Arabia,6.42,107.0
+2012,SEN,Senegal,5.9,132.0
+2012,SRB,Serbia,6.55,102.0
+2012,SLE,Sierra Leone,6.27,115.0
+2012,SGP,Singapore,8.64,2.0
+2012,SVK,Slovak Rep,7.38,38.0
+2012,SVN,Slovenia,6.84,82.0
+2012,ZAF,South Africa,6.98,72.0
+2012,ESP,Spain,7.35,42.0
+2012,LKA,Sri Lanka,6.73,88.0
+2012,SUR,Suriname,6.64,96.0
+2012,SWZ,Swaziland,6.44,105.0
+2012,SWE,Sweden,7.48,31.0
+2012,CHE,Switzerland,8.2,4.0
+2012,SYR,Syria,5.27,142.0
+2012,TWN,Taiwan,7.71,15.0
+2012,TJK,Tajikistan,6.75,87.0
+2012,TZA,Tanzania,6.62,98.0
+2012,THA,Thailand,6.58,100.0
+2012,TLS,Timor-Leste,6.69,91.0
+2012,TGO,Togo,5.33,140.0
+2012,TTO,Trinidad & Tob.,6.6,99.0
+2012,TUN,Tunisia,6.4,108.0
+2012,TUR,Turkey,6.99,71.0
+2012,UGA,Uganda,7.28,52.0
+2012,UKR,Ukraine,6.24,116.0
+2012,ARE,Unit. Arab Em.,7.71,15.0
+2012,GBR,United Kingdom,7.91,9.0
+2012,USA,United States,7.88,10.0
+2012,URY,Uruguay,7.34,44.0
+2012,VEN,Venezuela,3.82,153.0
+2012,VNM,Vietnam,6.4,108.0
+2012,YEM,"Yemen, Rep.",6.17,122.0
+2012,ZMB,Zambia,7.19,60.0
+2012,ZWE,Zimbabwe,5.06,145.0
+2011,ALB,Albania,7.24,52.0
+2011,DZA,Algeria,5.06,147.0
+2011,AGO,Angola,5.16,145.0
+2011,ARG,Argentina,5.58,140.0
+2011,ARM,Armenia,7.71,14.0
+2011,AUS,Australia,8.01,6.0
+2011,AUT,Austria,7.65,21.0
+2011,AZE,Azerbaijan,6.15,125.0
+2011,BHS,Bahamas,7.32,46.0
+2011,BHR,Bahrain,7.49,30.0
+2011,BGD,Bangladesh,6.34,111.0
+2011,BRD,Barbados,6.63,98.0
+2011,BEL,Belgium,7.38,38.0
+2011,BLZ,Belize,7.12,65.0
+2011,BEN,Benin,6.0,129.0
+2011,BOL,Bolivia,6.31,114.0
+2011,BIH,Bosnia and Herzegovina,6.7,91.0
+2011,BWA,Botswana,7.22,55.0
+2011,BRA,Brazil,6.45,108.0
+2011,BRN,Brunei Darussalam,6.92,77.0
+2011,BGR,Bulgaria,7.37,40.0
+2011,BFA,Burkina Faso,5.95,130.0
+2011,BDI,Burundi,5.23,144.0
+2011,KHM,Cambodia,6.98,72.0
+2011,CMR,Cameroon,6.03,128.0
+2011,CAN,Canada,7.95,7.0
+2011,CPV,Cape Verde,6.53,105.0
+2011,CAF,Central Afr. Rep.,5.06,147.0
+2011,TCD,Chad,4.97,149.0
+2011,CHL,Chile,7.91,8.0
+2011,CHN,China,6.32,113.0
+2011,COL,Colombia,6.82,86.0
+2011,COD,"Congo, Dem. R.",5.28,143.0
+2011,COG,"Congo, Rep. Of",4.48,151.0
+2011,CRI,Costa Rica,7.57,25.0
+2011,CIV,Cote d'Ivoire,5.7,137.0
+2011,HRV,Croatia,6.9,79.0
+2011,CYP,Cyprus,7.67,19.0
+2011,CZE,Czech Rep.,7.26,50.0
+2011,DNK,Denmark,7.71,14.0
+2011,DOM,Dominican Rep.,7.18,59.0
+2011,ECU,Ecuador,5.88,133.0
+2011,EGY,Egypt,6.18,122.0
+2011,SLV,El Salvador,7.14,62.0
+2011,EST,Estonia,7.74,13.0
+2011,ETH,Ethiopia,5.16,145.0
+2011,FJI,Fiji,7.04,68.0
+2011,FIN,Finland,7.87,10.0
+2011,FRA,France,7.33,45.0
+2011,GAB,Gabon,5.44,142.0
+2011,GMB,"Gambia, The",7.04,68.0
+2011,GEO,Georgia,7.64,22.0
+2011,DEU,Germany,7.68,18.0
+2011,GHA,Ghana,6.76,89.0
+2011,GRC,Greece,6.69,93.0
+2011,GTM,Guatemala,7.22,55.0
+2011,GNB,Guinea-Bissau,5.62,139.0
+2011,GUY,Guyana,6.31,114.0
+2011,HTI,Haiti,6.29,116.0
+2011,HND,Honduras,7.28,48.0
+2011,HKG,Hong Kong,8.99,1.0
+2011,HUN,Hungary,7.38,38.0
+2011,ISL,Iceland,6.86,82.0
+2011,IND,India,6.57,103.0
+2011,IDN,Indonesia,6.87,81.0
+2011,IRN,Iran,5.63,138.0
+2011,IRL,Ireland,7.83,11.0
+2011,ISR,Israel,7.35,41.0
+2011,ITA,Italy,7.22,55.0
+2011,JAM,Jamaica,7.0,71.0
+2011,JPN,Japan,7.49,30.0
+2011,JOR,Jordan,7.48,32.0
+2011,KAZ,Kazakhstan,6.97,73.0
+2011,KEN,Kenya,6.94,75.0
+2011,KOR,"Korea, South",7.52,28.0
+2011,KWT,Kuwait,6.93,76.0
+2011,KGZ,Kyrgyz Republic,6.62,99.0
+2011,LVA,Latvia,7.34,42.0
+2011,LBN,Lebanon,7.18,59.0
+2011,LSO,Lesotho,6.21,119.0
+2011,LTU,Lithuania,7.5,29.0
+2011,LUX,Luxembourg,7.48,32.0
+2011,MKD,Macedonia,7.11,67.0
+2011,MDG,Madagascar,6.21,119.0
+2011,MWI,Malawi,6.52,106.0
+2011,MYS,Malaysia,6.86,82.0
+2011,MLI,Mali,5.92,131.0
+2011,MLT,Malta,7.67,19.0
+2011,MRT,Mauritania,5.78,135.0
+2011,MUS,Mauritius,8.05,5.0
+2011,MEX,Mexico,6.68,94.0
+2011,MDA,Moldova,6.7,91.0
+2011,MNG,Mongolia,7.17,61.0
+2011,MNE,Montenegro,7.14,62.0
+2011,MAR,Morocco,6.47,107.0
+2011,MOZ,Mozambique,5.77,136.0
+2011,MMR,Myanmar,4.44,152.0
+2011,NAM,Namibia,6.61,100.0
+2011,NPL,Nepal,6.12,127.0
+2011,NLD,Netherlands,7.58,24.0
+2011,NZL,New Zealand,8.39,3.0
+2011,NIC,Nicaragua,7.31,47.0
+2011,NER,Niger,5.8,134.0
+2011,NGA,Nigeria,6.34,111.0
+2011,NOR,Norway,7.56,27.0
+2011,OMN,Oman,6.91,78.0
+2011,PAK,Pakistan,6.23,118.0
+2011,PAN,Panama,7.13,64.0
+2011,PNG,Pap. New Guinea,6.83,84.0
+2011,PRY,Paraguay,6.8,87.0
+2011,PER,Peru,7.62,23.0
+2011,PHL,Philippines,7.22,55.0
+2011,POL,Poland,7.24,52.0
+2011,PRT,Portugal,7.27,49.0
+2011,QAT,Qatar,7.23,54.0
+2011,ROU,Romania,7.34,42.0
+2011,RUS,Russia,6.56,104.0
+2011,RWA,Rwanda,7.45,35.0
+2011,SAU,Saudi Arabia,6.67,95.0
+2011,SEN,Senegal,5.9,132.0
+2011,SRB,Serbia,6.64,97.0
+2011,SLE,Sierra Leone,6.18,122.0
+2011,SGP,Singapore,8.76,2.0
+2011,SVK,Slovak Rep,7.48,32.0
+2011,SVN,Slovenia,6.83,84.0
+2011,ZAF,South Africa,7.12,65.0
+2011,ESP,Spain,7.45,35.0
+2011,LKA,Sri Lanka,6.77,88.0
+2011,SUR,Suriname,6.35,110.0
+2011,SWZ,Swaziland,6.58,102.0
+2011,SWE,Sweden,7.57,25.0
+2011,CHE,Switzerland,8.23,4.0
+2011,SYR,Syria,6.18,122.0
+2011,TWN,Taiwan,7.71,14.0
+2011,TJK,Tajikistan,6.39,109.0
+2011,TZA,Tanzania,6.76,89.0
+2011,THA,Thailand,6.59,101.0
+2011,TLS,Timor-Leste,6.89,80.0
+2011,TGO,Togo,5.45,141.0
+2011,TTO,Trinidad & Tob.,6.65,96.0
+2011,TUN,Tunisia,6.97,73.0
+2011,TUR,Turkey,7.03,70.0
+2011,UGA,Uganda,7.26,50.0
+2011,UKR,Ukraine,6.15,125.0
+2011,ARE,Unit. Arab Em.,7.69,17.0
+2011,GBR,United Kingdom,7.9,9.0
+2011,USA,United States,7.76,12.0
+2011,URY,Uruguay,7.39,37.0
+2011,VEN,Venezuela,3.91,153.0
+2011,VNM,Vietnam,6.24,117.0
+2011,YEM,"Yemen, Rep.",6.19,121.0
+2011,ZMB,Zambia,7.34,42.0
+2011,ZWE,Zimbabwe,4.93,150.0
+2010,ALB,Albania,7.35,38.0
+2010,DZA,Algeria,5.07,147.0
+2010,AGO,Angola,5.3,145.0
+2010,ARG,Argentina,5.59,139.0
+2010,ARM,Armenia,7.56,23.0
+2010,AUS,Australia,8.02,5.0
+2010,AUT,Austria,7.62,18.0
+2010,AZE,Azerbaijan,5.97,128.0
+2010,BHS,Bahamas,7.38,37.0
+2010,BHR,Bahrain,7.47,29.0
+2010,BGD,Bangladesh,6.35,109.0
+2010,BRD,Barbados,6.63,92.0
+2010,BEL,Belgium,7.39,36.0
+2010,BLZ,Belize,6.52,100.0
+2010,BEN,Benin,6.05,125.0
+2010,BOL,Bolivia,6.35,109.0
+2010,BIH,Bosnia and Herzegovina,6.63,92.0
+2010,BWA,Botswana,7.02,67.0
+2010,BRA,Brazil,6.46,103.0
+2010,BRN,Brunei Darussalam,7.07,63.0
+2010,BGR,Bulgaria,7.3,46.0
+2010,BFA,Burkina Faso,5.93,131.0
+2010,BDI,Burundi,5.18,146.0
+2010,KHM,Cambodia,7.08,62.0
+2010,CMR,Cameroon,6.08,123.0
+2010,CAN,Canada,8.01,6.0
+2010,CPV,Cape Verde,6.38,108.0
+2010,CAF,Central Afr. Rep.,5.04,149.0
+2010,TCD,Chad,5.44,143.0
+2010,CHL,Chile,7.89,8.0
+2010,CHN,China,6.26,115.0
+2010,COL,Colombia,6.74,84.0
+2010,COD,"Congo, Dem. R.",5.38,144.0
+2010,COG,"Congo, Rep. Of",4.74,150.0
+2010,CRI,Costa Rica,7.28,48.0
+2010,CIV,Cote d'Ivoire,5.69,137.0
+2010,HRV,Croatia,6.68,88.0
+2010,CYP,Cyprus,7.73,14.0
+2010,CZE,Czech Rep.,7.22,52.0
+2010,DNK,Denmark,7.77,13.0
+2010,DOM,Dominican Rep.,7.16,59.0
+2010,ECU,Ecuador,5.87,135.0
+2010,EGY,Egypt,6.35,109.0
+2010,SLV,El Salvador,7.21,54.0
+2010,EST,Estonia,7.82,10.0
+2010,ETH,Ethiopia,5.6,138.0
+2010,FJI,Fiji,6.93,73.0
+2010,FIN,Finland,7.79,12.0
+2010,FRA,France,7.42,35.0
+2010,GAB,Gabon,5.54,141.0
+2010,GMB,"Gambia, The",7.24,49.0
+2010,GEO,Georgia,7.5,27.0
+2010,DEU,Germany,7.59,19.0
+2010,GHA,Ghana,6.75,83.0
+2010,GRC,Greece,6.81,82.0
+2010,GTM,Guatemala,7.15,60.0
+2010,GNB,Guinea-Bissau,5.05,148.0
+2010,GUY,Guyana,6.21,117.0
+2010,HTI,Haiti,6.21,117.0
+2010,HND,Honduras,7.21,54.0
+2010,HKG,Hong Kong,9.02,1.0
+2010,HUN,Hungary,7.31,45.0
+2010,ISL,Iceland,6.48,102.0
+2010,IND,India,6.39,107.0
+2010,IDN,Indonesia,6.85,77.0
+2010,IRN,Iran,5.91,132.0
+2010,IRL,Ireland,7.67,16.0
+2010,ISR,Israel,7.32,43.0
+2010,ITA,Italy,7.19,57.0
+2010,JAM,Jamaica,6.97,70.0
+2010,JPN,Japan,7.59,19.0
+2010,JOR,Jordan,7.45,33.0
+2010,KAZ,Kazakhstan,6.94,72.0
+2010,KEN,Kenya,6.92,75.0
+2010,KOR,"Korea, South",7.51,26.0
+2010,KWT,Kuwait,6.95,71.0
+2010,KGZ,Kyrgyz Republic,6.61,95.0
+2010,LVA,Latvia,7.23,50.0
+2010,LBN,Lebanon,7.21,54.0
+2010,LSO,Lesotho,6.08,123.0
+2010,LTU,Lithuania,7.47,29.0
+2010,LUX,Luxembourg,7.53,25.0
+2010,MKD,Macedonia,6.93,73.0
+2010,MDG,Madagascar,6.41,104.0
+2010,MWI,Malawi,6.27,114.0
+2010,MYS,Malaysia,6.85,77.0
+2010,MLI,Mali,6.04,126.0
+2010,MLT,Malta,7.59,19.0
+2010,MRT,Mauritania,5.77,136.0
+2010,MUS,Mauritius,7.98,7.0
+2010,MEX,Mexico,6.67,89.0
+2010,MDA,Moldova,6.58,97.0
+2010,MNG,Mongolia,7.06,64.0
+2010,MNE,Montenegro,7.33,41.0
+2010,MAR,Morocco,6.41,104.0
+2010,MOZ,Mozambique,5.51,142.0
+2010,MMR,Myanmar,4.06,152.0
+2010,NAM,Namibia,6.84,79.0
+2010,NPL,Nepal,6.2,119.0
+2010,NLD,Netherlands,7.48,28.0
+2010,NZL,New Zealand,8.33,3.0
+2010,NIC,Nicaragua,7.18,58.0
+2010,NER,Niger,5.91,132.0
+2010,NGA,Nigeria,6.12,121.0
+2010,NOR,Norway,7.47,29.0
+2010,OMN,Oman,7.01,68.0
+2010,PAK,Pakistan,6.17,120.0
+2010,PAN,Panama,7.22,52.0
+2010,PNG,Pap. New Guinea,6.87,76.0
+2010,PRY,Paraguay,6.74,84.0
+2010,PER,Peru,7.64,17.0
+2010,PHL,Philippines,7.05,65.0
+2010,POL,Poland,7.12,61.0
+2010,PRT,Portugal,7.0,69.0
+2010,QAT,Qatar,7.35,38.0
+2010,ROU,Romania,7.3,46.0
+2010,RUS,Russia,6.54,99.0
+2010,RWA,Rwanda,7.23,50.0
+2010,SAU,Saudi Arabia,6.71,86.0
+2010,SEN,Senegal,5.95,130.0
+2010,SRB,Serbia,6.56,98.0
+2010,SLE,Sierra Leone,6.22,116.0
+2010,SGP,Singapore,8.76,2.0
+2010,SVK,Slovak Rep,7.47,29.0
+2010,SVN,Slovenia,6.82,81.0
+2010,ZAF,South Africa,7.05,65.0
+2010,ESP,Spain,7.32,43.0
+2010,LKA,Sri Lanka,6.63,92.0
+2010,SUR,Suriname,6.64,91.0
+2010,SWZ,Swaziland,6.41,104.0
+2010,SWE,Sweden,7.58,22.0
+2010,CHE,Switzerland,8.3,4.0
+2010,SYR,Syria,5.96,129.0
+2010,TWN,Taiwan,7.7,15.0
+2010,TJK,Tajikistan,6.28,113.0
+2010,TZA,Tanzania,6.7,87.0
+2010,THA,Thailand,6.65,90.0
+2010,TLS,Timor-Leste,6.0,127.0
+2010,TGO,Togo,5.55,140.0
+2010,TTO,Trinidad & Tob.,6.61,95.0
+2010,TUN,Tunisia,6.49,101.0
+2010,TUR,Turkey,6.83,80.0
+2010,UGA,Uganda,7.44,34.0
+2010,UKR,Ukraine,5.9,134.0
+2010,ARE,Unit. Arab Em.,7.56,23.0
+2010,GBR,United Kingdom,7.89,8.0
+2010,USA,United States,7.81,11.0
+2010,URY,Uruguay,7.33,41.0
+2010,VEN,Venezuela,3.96,153.0
+2010,VNM,Vietnam,6.33,112.0
+2010,YEM,"Yemen, Rep.",6.12,121.0
+2010,ZMB,Zambia,7.35,38.0
+2010,ZWE,Zimbabwe,4.46,151.0
+2009,ALB,Albania,7.31,39.0
+2009,DZA,Algeria,5.18,135.0
+2009,AGO,Angola,5.14,137.0
+2009,ARG,Argentina,5.82,123.0
+2009,ARM,Armenia,7.55,18.0
+2009,AUS,Australia,7.97,7.0
+2009,AUT,Austria,7.66,15.0
+2009,AZE,Azerbaijan,6.06,111.0
+2009,BHS,Bahamas,7.49,25.0
+2009,BHR,Bahrain,7.29,40.0
+2009,BGD,Bangladesh,6.3,101.0
+2009,BRD,Barbados,6.56,89.0
+2009,BEL,Belgium,7.28,42.0
+2009,BLZ,Belize,7.07,60.0
+2009,BEN,Benin,6.1,110.0
+2009,BOL,Bolivia,6.3,101.0
+2009,BIH,Bosnia and Herzegovina,6.56,89.0
+2009,BWA,Botswana,6.76,80.0
+2009,BRA,Brazil,6.24,105.0
+2009,BGR,Bulgaria,7.29,40.0
+2009,BFA,Burkina Faso,5.9,118.0
+2009,BDI,Burundi,5.43,131.0
+2009,CMR,Cameroon,5.85,122.0
+2009,CAN,Canada,8.01,6.0
+2009,CAF,Central Afr. Rep.,5.2,133.0
+2009,TCD,Chad,5.16,136.0
+2009,CHL,Chile,7.87,9.0
+2009,CHN,China,6.31,100.0
+2009,COL,Colombia,6.7,82.0
+2009,COD,"Congo, Dem. R.",5.28,132.0
+2009,COG,"Congo, Rep. Of",4.9,138.0
+2009,CRI,Costa Rica,7.37,35.0
+2009,CIV,Cote d'Ivoire,5.69,128.0
+2009,HRV,Croatia,6.78,79.0
+2009,CYP,Cyprus,7.77,11.0
+2009,CZE,Czech Rep.,7.17,48.0
+2009,DNK,Denmark,7.66,15.0
+2009,DOM,Dominican Rep.,6.95,67.0
+2009,ECU,Ecuador,5.92,116.0
+2009,EGY,Egypt,6.21,107.0
+2009,SLV,El Salvador,7.4,31.0
+2009,EST,Estonia,7.7,14.0
+2009,ETH,Ethiopia,5.78,126.0
+2009,FJI,Fiji,7.08,59.0
+2009,FIN,Finland,7.71,13.0
+2009,FRA,France,7.43,28.0
+2009,GAB,Gabon,5.8,124.0
+2009,GEO,Georgia,7.41,30.0
+2009,DEU,Germany,7.55,18.0
+2009,GHA,Ghana,6.87,74.0
+2009,GRC,Greece,6.96,66.0
+2009,GTM,Guatemala,7.15,53.0
+2009,GNB,Guinea-Bissau,5.19,134.0
+2009,GUY,Guyana,6.33,99.0
+2009,HTI,Haiti,6.79,77.0
+2009,HND,Honduras,7.16,50.0
+2009,HKG,Hong Kong,9.09,1.0
+2009,HUN,Hungary,7.27,43.0
+2009,ISL,Iceland,6.9,70.0
+2009,IND,India,6.39,97.0
+2009,IDN,Indonesia,6.55,92.0
+2009,IRN,Iran,5.91,117.0
+2009,IRL,Ireland,7.76,12.0
+2009,ISR,Israel,7.14,54.0
+2009,ITA,Italy,6.97,65.0
+2009,JAM,Jamaica,7.26,45.0
+2009,JPN,Japan,7.52,21.0
+2009,JOR,Jordan,7.23,47.0
+2009,KAZ,Kazakhstan,7.07,60.0
+2009,KEN,Kenya,6.9,70.0
+2009,KOR,"Korea, South",7.35,37.0
+2009,KWT,Kuwait,7.1,57.0
+2009,KGZ,Kyrgyz Republic,6.91,69.0
+2009,LVA,Latvia,7.33,38.0
+2009,LSO,Lesotho,6.03,115.0
+2009,LTU,Lithuania,7.55,18.0
+2009,LUX,Luxembourg,7.51,22.0
+2009,MKD,Macedonia,6.89,72.0
+2009,MDG,Madagascar,6.28,103.0
+2009,MWI,Malawi,6.22,106.0
+2009,MYS,Malaysia,6.6,87.0
+2009,MLI,Mali,6.04,113.0
+2009,MLT,Malta,7.64,17.0
+2009,MRT,Mauritania,6.04,113.0
+2009,MUS,Mauritius,7.85,10.0
+2009,MEX,Mexico,6.53,93.0
+2009,MDA,Moldova,6.66,84.0
+2009,MNG,Mongolia,7.03,63.0
+2009,MNE,Montenegro,7.16,50.0
+2009,MAR,Morocco,6.26,104.0
+2009,MOZ,Mozambique,5.47,130.0
+2009,MMR,Myanmar,4.22,141.0
+2009,NAM,Namibia,6.93,68.0
+2009,NPL,Nepal,5.86,121.0
+2009,NLD,Netherlands,7.44,27.0
+2009,NZL,New Zealand,8.27,3.0
+2009,NIC,Nicaragua,7.09,58.0
+2009,NER,Niger,5.7,127.0
+2009,NGA,Nigeria,5.89,119.0
+2009,NOR,Norway,7.5,24.0
+2009,OMN,Oman,7.13,55.0
+2009,PAK,Pakistan,6.12,109.0
+2009,PAN,Panama,7.25,46.0
+2009,PNG,Pap. New Guinea,6.83,75.0
+2009,PRY,Paraguay,6.56,89.0
+2009,PER,Peru,7.51,22.0
+2009,PHL,Philippines,6.66,84.0
+2009,POL,Poland,7.16,50.0
+2009,PRT,Portugal,7.17,48.0
+2009,ROU,Romania,7.45,26.0
+2009,RUS,Russia,6.43,95.0
+2009,RWA,Rwanda,6.89,72.0
+2009,SEN,Senegal,6.05,112.0
+2009,SRB,Serbia,6.58,88.0
+2009,SLE,Sierra Leone,6.18,108.0
+2009,SGP,Singapore,8.77,2.0
+2009,SVK,Slovak Rep,7.42,29.0
+2009,SVN,Slovenia,7.02,64.0
+2009,ZAF,South Africa,6.82,76.0
+2009,ESP,Spain,7.27,43.0
+2009,LKA,Sri Lanka,6.35,98.0
+2009,SWE,Sweden,7.39,33.0
+2009,CHE,Switzerland,8.26,4.0
+2009,SYR,Syria,5.79,125.0
+2009,TWN,Taiwan,7.39,33.0
+2009,TZA,Tanzania,6.42,96.0
+2009,THA,Thailand,6.69,83.0
+2009,TGO,Togo,5.57,129.0
+2009,TTO,Trinidad & Tob.,6.61,86.0
+2009,TUN,Tunisia,6.71,81.0
+2009,TUR,Turkey,6.79,77.0
+2009,UGA,Uganda,7.36,36.0
+2009,UKR,Ukraine,5.89,119.0
+2009,ARE,Unit. Arab Em.,7.4,31.0
+2009,GBR,United Kingdom,8.08,5.0
+2009,USA,United States,7.95,8.0
+2009,URY,Uruguay,7.05,62.0
+2009,VEN,Venezuela,4.36,140.0
+2009,VNM,Vietnam,6.45,94.0
+2009,ZMB,Zambia,7.13,55.0
+2009,ZWE,Zimbabwe,4.5,139.0
+2008,ALB,Albania,7.22,47.0
+2008,DZA,Algeria,5.16,132.0
+2008,AGO,Angola,4.41,139.0
+2008,ARG,Argentina,5.88,120.0
+2008,ARM,Armenia,7.59,22.0
+2008,AUS,Australia,8.08,6.0
+2008,AUT,Austria,7.7,16.0
+2008,AZE,Azerbaijan,6.15,105.0
+2008,BHS,Bahamas,7.58,24.0
+2008,BHR,Bahrain,7.42,34.0
+2008,BGD,Bangladesh,6.07,107.0
+2008,BRD,Barbados,6.22,100.0
+2008,BEL,Belgium,7.3,42.0
+2008,BLZ,Belize,7.32,40.0
+2008,BEN,Benin,5.99,114.0
+2008,BOL,Bolivia,6.09,106.0
+2008,BIH,Bosnia and Herzegovina,6.56,88.0
+2008,BWA,Botswana,6.85,69.0
+2008,BRA,Brazil,6.31,97.0
+2008,BGR,Bulgaria,7.17,55.0
+2008,BFA,Burkina Faso,5.95,118.0
+2008,BDI,Burundi,5.01,134.0
+2008,CMR,Cameroon,5.57,127.0
+2008,CAN,Canada,8.04,7.0
+2008,CAF,Central Afr. Rep.,5.18,131.0
+2008,TCD,Chad,4.84,135.0
+2008,CHL,Chile,7.8,13.0
+2008,CHN,China,6.27,98.0
+2008,COL,Colombia,6.6,87.0
+2008,COD,"Congo, Dem. R.",5.16,132.0
+2008,COG,"Congo, Rep. Of",4.69,137.0
+2008,CRI,Costa Rica,7.37,37.0
+2008,CIV,Cote d'Ivoire,5.5,128.0
+2008,HRV,Croatia,6.72,81.0
+2008,CYP,Cyprus,7.74,15.0
+2008,CZE,Czech Rep.,7.21,48.0
+2008,DNK,Denmark,7.88,10.0
+2008,DOM,Dominican Rep.,6.46,93.0
+2008,ECU,Ecuador,6.02,113.0
+2008,EGY,Egypt,6.43,94.0
+2008,SLV,El Salvador,7.53,27.0
+2008,EST,Estonia,7.77,14.0
+2008,ETH,Ethiopia,5.35,130.0
+2008,FJI,Fiji,7.26,45.0
+2008,FIN,Finland,7.81,12.0
+2008,FRA,France,7.42,34.0
+2008,GAB,Gabon,5.85,123.0
+2008,GEO,Georgia,7.57,26.0
+2008,DEU,Germany,7.5,29.0
+2008,GHA,Ghana,6.82,72.0
+2008,GRC,Greece,7.1,60.0
+2008,GTM,Guatemala,7.21,48.0
+2008,GNB,Guinea-Bissau,4.81,136.0
+2008,GUY,Guyana,6.4,95.0
+2008,HTI,Haiti,6.76,77.0
+2008,HND,Honduras,7.28,43.0
+2008,HKG,Hong Kong,9.19,1.0
+2008,HUN,Hungary,7.2,52.0
+2008,ISL,Iceland,7.34,39.0
+2008,IND,India,6.47,92.0
+2008,IDN,Indonesia,6.39,96.0
+2008,IRN,Iran,6.06,110.0
+2008,IRL,Ireland,7.87,11.0
+2008,ISR,Israel,7.2,52.0
+2008,ITA,Italy,7.07,62.0
+2008,JAM,Jamaica,7.27,44.0
+2008,JPN,Japan,7.65,18.0
+2008,JOR,Jordan,7.17,55.0
+2008,KAZ,Kazakhstan,7.04,63.0
+2008,KEN,Kenya,6.77,75.0
+2008,KOR,"Korea, South",7.46,32.0
+2008,KWT,Kuwait,7.03,64.0
+2008,KGZ,Kyrgyz Republic,6.82,72.0
+2008,LVA,Latvia,7.52,28.0
+2008,LSO,Lesotho,6.07,107.0
+2008,LTU,Lithuania,7.44,33.0
+2008,LUX,Luxembourg,7.62,20.0
+2008,MKD,Macedonia,6.83,70.0
+2008,MDG,Madagascar,6.07,107.0
+2008,MWI,Malawi,6.17,104.0
+2008,MYS,Malaysia,6.61,86.0
+2008,MLI,Mali,5.89,119.0
+2008,MLT,Malta,7.59,22.0
+2008,MRT,Mauritania,5.98,115.0
+2008,MUS,Mauritius,7.96,9.0
+2008,MEX,Mexico,6.66,85.0
+2008,MDA,Moldova,6.91,67.0
+2008,MNG,Mongolia,6.73,80.0
+2008,MNE,Montenegro,7.19,54.0
+2008,MAR,Morocco,6.22,100.0
+2008,MOZ,Mozambique,5.67,124.0
+2008,MMR,Myanmar,3.86,141.0
+2008,NAM,Namibia,6.83,70.0
+2008,NPL,Nepal,6.03,111.0
+2008,NLD,Netherlands,7.58,24.0
+2008,NZL,New Zealand,8.4,3.0
+2008,NIC,Nicaragua,7.12,58.0
+2008,NER,Niger,5.39,129.0
+2008,NGA,Nigeria,6.03,111.0
+2008,NOR,Norway,7.63,19.0
+2008,OMN,Oman,7.08,61.0
+2008,PAK,Pakistan,5.97,117.0
+2008,PAN,Panama,7.24,46.0
+2008,PNG,Pap. New Guinea,6.77,75.0
+2008,PRY,Paraguay,6.5,91.0
+2008,PER,Peru,7.5,29.0
+2008,PHL,Philippines,6.72,81.0
+2008,POL,Poland,7.0,66.0
+2008,PRT,Portugal,7.21,48.0
+2008,ROU,Romania,7.32,40.0
+2008,RUS,Russia,6.52,90.0
+2008,RWA,Rwanda,6.75,78.0
+2008,SEN,Senegal,5.87,121.0
+2008,SRB,Serbia,6.55,89.0
+2008,SLE,Sierra Leone,5.98,115.0
+2008,SGP,Singapore,8.92,2.0
+2008,SVK,Slovak Rep,7.6,21.0
+2008,SVN,Slovenia,7.01,65.0
+2008,ZAF,South Africa,6.72,81.0
+2008,ESP,Spain,7.37,37.0
+2008,LKA,Sri Lanka,6.26,99.0
+2008,SWE,Sweden,7.4,36.0
+2008,CHE,Switzerland,8.24,4.0
+2008,SYR,Syria,5.62,126.0
+2008,TWN,Taiwan,7.49,31.0
+2008,TZA,Tanzania,6.2,102.0
+2008,THA,Thailand,6.8,74.0
+2008,TGO,Togo,5.67,124.0
+2008,TTO,Trinidad & Tob.,6.74,79.0
+2008,TUN,Tunisia,6.68,84.0
+2008,TUR,Turkey,6.86,68.0
+2008,UGA,Uganda,7.21,48.0
+2008,UKR,Ukraine,5.87,121.0
+2008,ARE,Unit. Arab Em.,7.68,17.0
+2008,GBR,United Kingdom,7.99,8.0
+2008,USA,United States,8.17,5.0
+2008,URY,Uruguay,7.12,58.0
+2008,VEN,Venezuela,4.22,140.0
+2008,VNM,Vietnam,6.19,103.0
+2008,ZMB,Zambia,7.15,57.0
+2008,ZWE,Zimbabwe,4.55,138.0
+2007,ALB,Albania,7.21,53.0
+2007,DZA,Algeria,5.36,131.0
+2007,AGO,Angola,4.57,137.0
+2007,ARG,Argentina,6.19,103.0
+2007,ARM,Armenia,7.42,40.0
+2007,AUS,Australia,8.18,6.0
+2007,AUT,Austria,7.81,16.0
+2007,AZE,Azerbaijan,6.11,111.0
+2007,BHS,Bahamas,7.55,32.0
+2007,BHR,Bahrain,7.52,36.0
+2007,BGD,Bangladesh,6.06,113.0
+2007,BRD,Barbados,6.12,110.0
+2007,BEL,Belgium,7.38,45.0
+2007,BLZ,Belize,7.34,46.0
+2007,BEN,Benin,6.14,108.0
+2007,BOL,Bolivia,6.14,108.0
+2007,BIH,Bosnia and Herzegovina,6.61,86.0
+2007,BWA,Botswana,7.12,62.0
+2007,BRA,Brazil,6.17,105.0
+2007,BGR,Bulgaria,7.1,63.0
+2007,BFA,Burkina Faso,5.99,115.0
+2007,BDI,Burundi,5.46,129.0
+2007,CMR,Cameroon,5.68,127.0
+2007,CAN,Canada,8.09,8.0
+2007,CAF,Central Afr. Rep.,5.19,133.0
+2007,TCD,Chad,4.97,135.0
+2007,CHL,Chile,7.87,14.0
+2007,CHN,China,6.28,100.0
+2007,COL,Colombia,6.66,84.0
+2007,COD,"Congo, Dem. R.",5.18,134.0
+2007,COG,"Congo, Rep. Of",4.53,138.0
+2007,CRI,Costa Rica,7.59,27.0
+2007,CIV,Cote d'Ivoire,5.44,130.0
+2007,HRV,Croatia,6.61,86.0
+2007,CYP,Cyprus,7.77,18.0
+2007,CZE,Czech Rep.,7.17,56.0
+2007,DNK,Denmark,7.97,10.0
+2007,DOM,Dominican Rep.,6.5,91.0
+2007,ECU,Ecuador,5.83,124.0
+2007,EGY,Egypt,6.59,88.0
+2007,SLV,El Salvador,7.63,24.0
+2007,EST,Estonia,7.85,15.0
+2007,ETH,Ethiopia,5.74,126.0
+2007,FJI,Fiji,7.2,54.0
+2007,FIN,Finland,7.91,12.0
+2007,FRA,France,7.5,37.0
+2007,GAB,Gabon,5.81,125.0
+2007,GEO,Georgia,7.46,38.0
+2007,DEU,Germany,7.58,29.0
+2007,GHA,Ghana,6.88,72.0
+2007,GRC,Greece,7.32,49.0
+2007,GTM,Guatemala,7.34,46.0
+2007,GNB,Guinea-Bissau,4.78,136.0
+2007,GUY,Guyana,6.2,102.0
+2007,HTI,Haiti,6.63,85.0
+2007,HND,Honduras,7.39,43.0
+2007,HKG,Hong Kong,9.16,1.0
+2007,HUN,Hungary,7.15,57.0
+2007,ISL,Iceland,7.93,11.0
+2007,IND,India,6.52,90.0
+2007,IDN,Indonesia,6.42,95.0
+2007,IRN,Iran,6.02,114.0
+2007,IRL,Ireland,8.01,9.0
+2007,ISR,Israel,7.22,52.0
+2007,ITA,Italy,7.15,57.0
+2007,JAM,Jamaica,7.32,49.0
+2007,JPN,Japan,7.78,17.0
+2007,JOR,Jordan,7.4,41.0
+2007,KAZ,Kazakhstan,7.15,57.0
+2007,KEN,Kenya,7.1,63.0
+2007,KOR,"Korea, South",7.68,21.0
+2007,KWT,Kuwait,7.33,48.0
+2007,KGZ,Kyrgyz Republic,7.01,67.0
+2007,LVA,Latvia,7.59,27.0
+2007,LSO,Lesotho,5.84,123.0
+2007,LTU,Lithuania,7.54,33.0
+2007,LUX,Luxembourg,7.62,25.0
+2007,MKD,Macedonia,6.72,82.0
+2007,MDG,Madagascar,6.16,106.0
+2007,MWI,Malawi,5.85,122.0
+2007,MYS,Malaysia,6.88,72.0
+2007,MLI,Mali,6.16,106.0
+2007,MLT,Malta,7.74,19.0
+2007,MRT,Mauritania,5.9,120.0
+2007,MUS,Mauritius,7.89,13.0
+2007,MEX,Mexico,6.78,79.0
+2007,MDA,Moldova,6.79,78.0
+2007,MNG,Mongolia,6.89,70.0
+2007,MNE,Montenegro,7.04,66.0
+2007,MAR,Morocco,6.21,101.0
+2007,MOZ,Mozambique,5.61,128.0
+2007,MMR,Myanmar,3.73,140.0
+2007,NAM,Namibia,6.95,68.0
+2007,NPL,Nepal,6.18,104.0
+2007,NLD,Netherlands,7.64,23.0
+2007,NZL,New Zealand,8.39,4.0
+2007,NIC,Nicaragua,7.29,51.0
+2007,NER,Niger,5.25,132.0
+2007,NGA,Nigeria,6.34,97.0
+2007,NOR,Norway,7.73,20.0
+2007,OMN,Oman,7.18,55.0
+2007,PAK,Pakistan,6.09,112.0
+2007,PAN,Panama,7.56,31.0
+2007,PNG,Pap. New Guinea,6.7,83.0
+2007,PRY,Paraguay,6.37,96.0
+2007,PER,Peru,7.39,43.0
+2007,PHL,Philippines,6.86,74.0
+2007,POL,Poland,6.86,74.0
+2007,PRT,Portugal,7.4,41.0
+2007,ROU,Romania,7.57,30.0
+2007,RUS,Russia,6.45,93.0
+2007,RWA,Rwanda,6.46,92.0
+2007,SEN,Senegal,5.91,119.0
+2007,SRB,Serbia,6.77,80.0
+2007,SLE,Sierra Leone,5.92,117.0
+2007,SGP,Singapore,8.96,2.0
+2007,SVK,Slovak Rep,7.6,26.0
+2007,SVN,Slovenia,6.95,68.0
+2007,ZAF,South Africa,6.89,70.0
+2007,ESP,Spain,7.53,35.0
+2007,LKA,Sri Lanka,6.43,94.0
+2007,SWE,Sweden,7.43,39.0
+2007,CHE,Switzerland,8.43,3.0
+2007,SYR,Syria,5.96,116.0
+2007,TWN,Taiwan,7.54,33.0
+2007,TZA,Tanzania,6.3,98.0
+2007,THA,Thailand,6.83,77.0
+2007,TGO,Togo,5.86,121.0
+2007,TTO,Trinidad & Tob.,6.85,76.0
+2007,TUN,Tunisia,6.75,81.0
+2007,TUR,Turkey,6.54,89.0
+2007,UGA,Uganda,7.14,60.0
+2007,UKR,Ukraine,5.92,117.0
+2007,ARE,Unit. Arab Em.,7.66,22.0
+2007,GBR,United Kingdom,8.13,7.0
+2007,USA,United States,8.29,5.0
+2007,URY,Uruguay,7.08,65.0
+2007,VEN,Venezuela,4.38,139.0
+2007,VNM,Vietnam,6.3,98.0
+2007,ZMB,Zambia,7.13,61.0
+2007,ZWE,Zimbabwe,3.21,141.0
+2006,ALB,Albania,7.14,54.0
+2006,DZA,Algeria,5.68,124.0
+2006,AGO,Angola,4.44,139.0
+2006,ARG,Argentina,6.08,111.0
+2006,ARM,Armenia,7.45,36.0
+2006,AUS,Australia,8.14,7.0
+2006,AUT,Austria,7.85,14.0
+2006,AZE,Azerbaijan,6.1,108.0
+2006,BHS,Bahamas,7.46,33.0
+2006,BHR,Bahrain,7.35,42.0
+2006,BGD,Bangladesh,6.18,103.0
+2006,BRD,Barbados,6.1,108.0
+2006,BEL,Belgium,7.39,39.0
+2006,BLZ,Belize,7.27,46.0
+2006,BEN,Benin,6.28,102.0
+2006,BOL,Bolivia,6.37,99.0
+2006,BIH,Bosnia and Herzegovina,6.48,89.0
+2006,BWA,Botswana,6.99,65.0
+2006,BRA,Brazil,6.15,106.0
+2006,BGR,Bulgaria,7.08,58.0
+2006,BFA,Burkina Faso,5.84,120.0
+2006,BDI,Burundi,5.53,129.0
+2006,CMR,Cameroon,5.8,122.0
+2006,CAN,Canada,8.13,8.0
+2006,CAF,Central Afr. Rep.,4.93,136.0
+2006,TCD,Chad,5.17,133.0
+2006,CHL,Chile,7.76,16.0
+2006,CHN,China,6.16,104.0
+2006,COL,Colombia,6.51,88.0
+2006,COD,"Congo, Dem. R.",5.08,134.0
+2006,COG,"Congo, Rep. Of",4.63,138.0
+2006,CRI,Costa Rica,7.76,16.0
+2006,CIV,Cote d'Ivoire,5.5,130.0
+2006,HRV,Croatia,6.54,85.0
+2006,CYP,Cyprus,7.5,30.0
+2006,CZE,Czech Rep.,7.03,61.0
+2006,DNK,Denmark,7.97,11.0
+2006,DOM,Dominican Rep.,6.43,91.0
+2006,ECU,Ecuador,5.99,114.0
+2006,EGY,Egypt,6.4,93.0
+2006,SLV,El Salvador,7.57,28.0
+2006,EST,Estonia,7.97,11.0
+2006,ETH,Ethiopia,5.68,124.0
+2006,FJI,Fiji,7.13,55.0
+2006,FIN,Finland,7.88,13.0
+2006,FRA,France,7.32,45.0
+2006,GAB,Gabon,5.89,118.0
+2006,GEO,Georgia,7.6,22.0
+2006,DEU,Germany,7.7,19.0
+2006,GHA,Ghana,6.92,71.0
+2006,GRC,Greece,7.27,46.0
+2006,GTM,Guatemala,7.33,44.0
+2006,GNB,Guinea-Bissau,5.05,135.0
+2006,GUY,Guyana,6.0,113.0
+2006,HTI,Haiti,6.71,80.0
+2006,HND,Honduras,7.35,42.0
+2006,HKG,Hong Kong,9.11,1.0
+2006,HUN,Hungary,7.13,55.0
+2006,ISL,Iceland,8.08,10.0
+2006,IND,India,6.52,87.0
+2006,IDN,Indonesia,6.4,93.0
+2006,IRN,Iran,6.04,112.0
+2006,IRL,Ireland,8.11,9.0
+2006,ISR,Israel,7.23,50.0
+2006,ITA,Italy,7.25,48.0
+2006,JAM,Jamaica,7.5,30.0
+2006,JPN,Japan,7.85,14.0
+2006,JOR,Jordan,7.22,51.0
+2006,KAZ,Kazakhstan,6.98,67.0
+2006,KEN,Kenya,7.03,61.0
+2006,KOR,"Korea, South",7.67,20.0
+2006,KWT,Kuwait,7.19,53.0
+2006,KGZ,Kyrgyz Republic,6.9,73.0
+2006,LVA,Latvia,7.76,16.0
+2006,LSO,Lesotho,5.98,115.0
+2006,LTU,Lithuania,7.46,33.0
+2006,LUX,Luxembourg,7.6,22.0
+2006,MKD,Macedonia,6.61,83.0
+2006,MDG,Madagascar,5.74,123.0
+2006,MWI,Malawi,5.56,127.0
+2006,MYS,Malaysia,6.8,77.0
+2006,MLI,Mali,6.09,110.0
+2006,MLT,Malta,7.37,40.0
+2006,MRT,Mauritania,5.9,117.0
+2006,MUS,Mauritius,7.37,40.0
+2006,MEX,Mexico,6.87,74.0
+2006,MDA,Moldova,6.74,79.0
+2006,MNG,Mongolia,7.2,52.0
+2006,MNE,Montenegro,6.91,72.0
+2006,MAR,Morocco,6.14,107.0
+2006,MOZ,Mozambique,5.49,131.0
+2006,MMR,Myanmar,4.31,140.0
+2006,NAM,Namibia,6.63,81.0
+2006,NPL,Nepal,6.59,84.0
+2006,NLD,Netherlands,7.66,21.0
+2006,NZL,New Zealand,8.26,4.0
+2006,NIC,Nicaragua,7.25,48.0
+2006,NER,Niger,5.32,132.0
+2006,NGA,Nigeria,6.53,86.0
+2006,NOR,Norway,7.59,24.0
+2006,OMN,Oman,6.96,69.0
+2006,PAK,Pakistan,6.16,104.0
+2006,PAN,Panama,7.49,32.0
+2006,PNG,Pap. New Guinea,6.39,96.0
+2006,PRY,Paraguay,6.41,92.0
+2006,PER,Peru,7.41,37.0
+2006,PHL,Philippines,7.05,59.0
+2006,POL,Poland,6.94,70.0
+2006,PRT,Portugal,7.41,37.0
+2006,ROU,Romania,7.03,61.0
+2006,RUS,Russia,6.35,100.0
+2006,RWA,Rwanda,6.38,98.0
+2006,SEN,Senegal,5.81,121.0
+2006,SRB,Serbia,6.39,96.0
+2006,SLE,Sierra Leone,5.63,126.0
+2006,SGP,Singapore,8.98,2.0
+2006,SVK,Slovak Rep,7.59,24.0
+2006,SVN,Slovenia,6.98,67.0
+2006,ZAF,South Africa,6.99,65.0
+2006,ESP,Spain,7.57,28.0
+2006,LKA,Sri Lanka,6.62,82.0
+2006,SWE,Sweden,7.46,33.0
+2006,CHE,Switzerland,8.42,3.0
+2006,SYR,Syria,5.56,127.0
+2006,TWN,Taiwan,7.58,26.0
+2006,TZA,Tanzania,6.4,93.0
+2006,THA,Thailand,6.86,75.0
+2006,TGO,Togo,5.87,119.0
+2006,TTO,Trinidad & Tob.,6.86,75.0
+2006,TUN,Tunisia,6.76,78.0
+2006,TUR,Turkey,6.44,90.0
+2006,UGA,Uganda,7.11,57.0
+2006,UKR,Ukraine,5.95,116.0
+2006,ARE,Unit. Arab Em.,7.58,26.0
+2006,GBR,United Kingdom,8.2,5.0
+2006,USA,United States,8.18,6.0
+2006,URY,Uruguay,7.0,64.0
+2006,VEN,Venezuela,4.72,137.0
+2006,VNM,Vietnam,6.31,101.0
+2006,ZMB,Zambia,7.05,59.0
+2006,ZWE,Zimbabwe,2.96,141.0
+2005,ALB,Albania,6.96,64.0
+2005,DZA,Algeria,5.63,126.0
+2005,AGO,Angola,3.81,140.0
+2005,ARG,Argentina,5.99,109.0
+2005,ARM,Armenia,7.31,44.0
+2005,AUS,Australia,8.07,10.0
+2005,AUT,Austria,7.85,14.0
+2005,AZE,Azerbaijan,6.01,107.0
+2005,BHS,Bahamas,7.38,37.0
+2005,BHR,Bahrain,6.89,68.0
+2005,BGD,Bangladesh,6.02,106.0
+2005,BRD,Barbados,6.31,93.0
+2005,BEL,Belgium,7.41,35.0
+2005,BLZ,Belize,7.37,40.0
+2005,BEN,Benin,6.0,108.0
+2005,BOL,Bolivia,6.34,91.0
+2005,BIH,Bosnia and Herzegovina,6.18,101.0
+2005,BWA,Botswana,7.09,55.0
+2005,BRA,Brazil,6.18,101.0
+2005,BGR,Bulgaria,6.95,65.0
+2005,BFA,Burkina Faso,5.85,115.0
+2005,BDI,Burundi,5.06,132.0
+2005,CMR,Cameroon,5.65,125.0
+2005,CAN,Canada,8.12,9.0
+2005,CAF,Central Afr. Rep.,4.74,135.0
+2005,TCD,Chad,5.17,131.0
+2005,CHL,Chile,7.74,17.0
+2005,CHN,China,6.07,105.0
+2005,COL,Colombia,6.34,91.0
+2005,COD,"Congo, Dem. R.",4.61,137.0
+2005,COG,"Congo, Rep. Of",4.54,138.0
+2005,CRI,Costa Rica,7.56,25.0
+2005,CIV,Cote d'Ivoire,5.87,114.0
+2005,HRV,Croatia,6.47,83.0
+2005,CYP,Cyprus,7.56,25.0
+2005,CZE,Czech Rep.,6.98,62.0
+2005,DNK,Denmark,7.89,12.0
+2005,DOM,Dominican Rep.,6.52,80.0
+2005,ECU,Ecuador,5.94,112.0
+2005,EGY,Egypt,6.29,96.0
+2005,SLV,El Salvador,7.47,32.0
+2005,EST,Estonia,7.96,11.0
+2005,ETH,Ethiopia,5.54,128.0
+2005,FJI,Fiji,7.32,43.0
+2005,FIN,Finland,7.86,13.0
+2005,FRA,France,7.31,44.0
+2005,GAB,Gabon,5.71,122.0
+2005,GEO,Georgia,7.42,34.0
+2005,DEU,Germany,7.75,16.0
+2005,GHA,Ghana,6.42,86.0
+2005,GRC,Greece,7.38,37.0
+2005,GTM,Guatemala,7.22,51.0
+2005,GNB,Guinea-Bissau,4.8,134.0
+2005,GUY,Guyana,5.85,115.0
+2005,HTI,Haiti,6.66,76.0
+2005,HND,Honduras,7.03,60.0
+2005,HKG,Hong Kong,9.05,1.0
+2005,HUN,Hungary,7.2,52.0
+2005,ISL,Iceland,8.13,8.0
+2005,IND,India,6.71,75.0
+2005,IDN,Indonesia,6.35,90.0
+2005,IRN,Iran,6.09,103.0
+2005,IRL,Ireland,8.22,6.0
+2005,ISR,Israel,7.3,46.0
+2005,ITA,Italy,7.37,40.0
+2005,JAM,Jamaica,7.51,29.0
+2005,JPN,Japan,7.83,15.0
+2005,JOR,Jordan,7.3,46.0
+2005,KAZ,Kazakhstan,6.88,70.0
+2005,KEN,Kenya,7.15,53.0
+2005,KOR,"Korea, South",7.46,33.0
+2005,KWT,Kuwait,7.08,56.0
+2005,KGZ,Kyrgyz Republic,6.54,79.0
+2005,LVA,Latvia,7.62,21.0
+2005,LSO,Lesotho,5.74,121.0
+2005,LTU,Lithuania,7.37,40.0
+2005,LUX,Luxembourg,7.6,23.0
+2005,MKD,Macedonia,6.42,86.0
+2005,MDG,Madagascar,5.68,124.0
+2005,MWI,Malawi,5.37,130.0
+2005,MYS,Malaysia,6.84,71.0
+2005,MLI,Mali,5.82,117.0
+2005,MLT,Malta,7.55,27.0
+2005,MRT,Mauritania,6.3,94.0
+2005,MUS,Mauritius,7.53,28.0
+2005,MEX,Mexico,6.83,72.0
+2005,MDA,Moldova,6.73,73.0
+2005,MNG,Mongolia,7.08,56.0
+2005,MNE,Montenegro,6.3,94.0
+2005,MAR,Morocco,6.28,98.0
+2005,MOZ,Mozambique,5.45,129.0
+2005,MMR,Myanmar,3.99,139.0
+2005,NAM,Namibia,6.65,77.0
+2005,NPL,Nepal,6.41,88.0
+2005,NLD,Netherlands,7.73,18.0
+2005,NZL,New Zealand,8.44,3.0
+2005,NIC,Nicaragua,7.15,53.0
+2005,NER,Niger,5.0,133.0
+2005,NGA,Nigeria,5.95,111.0
+2005,NOR,Norway,7.73,18.0
+2005,OMN,Oman,7.23,50.0
+2005,PAK,Pakistan,6.09,103.0
+2005,PAN,Panama,7.57,24.0
+2005,PNG,Pap. New Guinea,6.48,81.0
+2005,PRY,Paraguay,6.48,81.0
+2005,PER,Peru,7.39,36.0
+2005,PHL,Philippines,7.02,61.0
+2005,POL,Poland,6.89,68.0
+2005,PRT,Portugal,7.25,48.0
+2005,ROU,Romania,7.24,49.0
+2005,RUS,Russia,6.24,99.0
+2005,RWA,Rwanda,5.89,113.0
+2005,SEN,Senegal,5.76,119.0
+2005,SRB,Serbia,5.96,110.0
+2005,SLE,Sierra Leone,5.57,127.0
+2005,SGP,Singapore,8.91,2.0
+2005,SVK,Slovak Rep,7.63,20.0
+2005,SVN,Slovenia,6.91,67.0
+2005,ZAF,South Africa,6.97,63.0
+2005,ESP,Spain,7.62,21.0
+2005,LKA,Sri Lanka,6.44,84.0
+2005,SWE,Sweden,7.5,31.0
+2005,CHE,Switzerland,8.37,4.0
+2005,SYR,Syria,5.75,120.0
+2005,TWN,Taiwan,7.51,29.0
+2005,TZA,Tanzania,6.29,96.0
+2005,THA,Thailand,6.72,74.0
+2005,TGO,Togo,5.69,123.0
+2005,TTO,Trinidad & Tob.,7.06,58.0
+2005,TUN,Tunisia,6.37,89.0
+2005,TUR,Turkey,6.43,85.0
+2005,UGA,Uganda,6.94,66.0
+2005,UKR,Ukraine,5.81,118.0
+2005,ARE,Unit. Arab Em.,7.38,37.0
+2005,GBR,United Kingdom,8.3,5.0
+2005,USA,United States,8.22,6.0
+2005,URY,Uruguay,7.05,59.0
+2005,VEN,Venezuela,4.73,136.0
+2005,VNM,Vietnam,6.19,100.0
+2005,ZMB,Zambia,6.64,78.0
+2005,ZWE,Zimbabwe,2.93,141.0
+2004,ALB,Albania,6.97,55.0
+2004,DZA,Algeria,5.04,122.0
+2004,ARG,Argentina,6.33,82.0
+2004,ARM,Armenia,7.36,36.0
+2004,AUS,Australia,8.01,10.0
+2004,AUT,Austria,7.9,14.0
+2004,AZE,Azerbaijan,6.19,87.0
+2004,BHS,Bahamas,7.18,46.0
+2004,BHR,Bahrain,7.02,52.0
+2004,BGD,Bangladesh,5.72,106.0
+2004,BRD,Barbados,6.13,89.0
+2004,BEL,Belgium,7.47,29.0
+2004,BLZ,Belize,7.02,52.0
+2004,BEN,Benin,5.91,99.0
+2004,BOL,Bolivia,6.45,77.0
+2004,BWA,Botswana,7.1,49.0
+2004,BRA,Brazil,6.15,88.0
+2004,BGR,Bulgaria,6.81,64.0
+2004,BDI,Burundi,4.88,124.0
+2004,CMR,Cameroon,5.79,101.0
+2004,CAN,Canada,8.17,7.0
+2004,CAF,Central Afr. Rep.,5.29,121.0
+2004,TCD,Chad,5.43,119.0
+2004,CHL,Chile,7.71,19.0
+2004,CHN,China,5.98,97.0
+2004,COL,Colombia,6.35,79.0
+2004,COD,"Congo, Dem. R.",4.64,127.0
+2004,COG,"Congo, Rep. Of",4.55,128.0
+2004,CRI,Costa Rica,7.22,41.0
+2004,CIV,Cote d'Ivoire,5.75,104.0
+2004,HRV,Croatia,6.34,80.0
+2004,CYP,Cyprus,7.65,21.0
+2004,CZE,Czech Rep.,6.94,58.0
+2004,DNK,Denmark,8.0,11.0
+2004,DOM,Dominican Rep.,5.79,101.0
+2004,ECU,Ecuador,5.68,109.0
+2004,EGY,Egypt,5.98,97.0
+2004,SLV,El Salvador,7.64,22.0
+2004,EST,Estonia,7.98,12.0
+2004,FJI,Fiji,6.73,71.0
+2004,FIN,Finland,7.87,15.0
+2004,FRA,France,7.38,35.0
+2004,GAB,Gabon,5.69,108.0
+2004,GEO,Georgia,6.96,56.0
+2004,DEU,Germany,7.7,20.0
+2004,GHA,Ghana,6.55,75.0
+2004,GRC,Greece,7.26,39.0
+2004,GTM,Guatemala,7.22,41.0
+2004,GNB,Guinea-Bissau,4.84,126.0
+2004,GUY,Guyana,5.76,103.0
+2004,HTI,Haiti,6.73,71.0
+2004,HND,Honduras,6.96,56.0
+2004,HKG,Hong Kong,8.81,1.0
+2004,HUN,Hungary,7.22,41.0
+2004,ISL,Iceland,8.06,9.0
+2004,IND,India,6.34,80.0
+2004,IDN,Indonesia,6.04,93.0
+2004,IRN,Iran,6.01,96.0
+2004,IRL,Ireland,8.13,8.0
+2004,ISR,Israel,7.23,40.0
+2004,ITA,Italy,7.29,37.0
+2004,JAM,Jamaica,7.55,26.0
+2004,JPN,Japan,7.77,16.0
+2004,JOR,Jordan,6.92,59.0
+2004,KEN,Kenya,6.74,70.0
+2004,KOR,"Korea, South",7.47,29.0
+2004,KWT,Kuwait,7.09,50.0
+2004,LVA,Latvia,7.61,24.0
+2004,LTU,Lithuania,7.41,34.0
+2004,LUX,Luxembourg,7.98,12.0
+2004,MKD,Macedonia,6.07,90.0
+2004,MDG,Madagascar,5.73,105.0
+2004,MWI,Malawi,5.9,100.0
+2004,MYS,Malaysia,6.59,74.0
+2004,MLI,Mali,5.66,112.0
+2004,MLT,Malta,7.22,41.0
+2004,MUS,Mauritius,7.05,51.0
+2004,MEX,Mexico,6.84,63.0
+2004,MNG,Mongolia,6.81,64.0
+2004,MAR,Morocco,6.03,95.0
+2004,MOZ,Mozambique,5.61,114.0
+2004,MMR,Myanmar,3.79,129.0
+2004,NAM,Namibia,6.53,76.0
+2004,NPL,Nepal,5.59,116.0
+2004,NLD,Netherlands,7.75,17.0
+2004,NZL,New Zealand,8.52,3.0
+2004,NIC,Nicaragua,6.87,61.0
+2004,NER,Niger,4.86,125.0
+2004,NGA,Nigeria,5.6,115.0
+2004,NOR,Norway,7.62,23.0
+2004,OMN,Oman,7.28,38.0
+2004,PAK,Pakistan,5.68,109.0
+2004,PAN,Panama,7.54,28.0
+2004,PNG,Pap. New Guinea,6.06,91.0
+2004,PRY,Paraguay,6.45,77.0
+2004,PER,Peru,7.43,33.0
+2004,PHL,Philippines,6.8,67.0
+2004,POL,Poland,6.81,64.0
+2004,PRT,Portugal,7.44,32.0
+2004,ROU,Romania,6.63,73.0
+2004,RUS,Russia,6.27,84.0
+2004,RWA,Rwanda,5.67,111.0
+2004,SEN,Senegal,5.7,107.0
+2004,SLE,Sierra Leone,5.3,120.0
+2004,SGP,Singapore,8.8,2.0
+2004,SVK,Slovak Rep,7.59,25.0
+2004,SVN,Slovenia,6.88,60.0
+2004,ZAF,South Africa,6.98,54.0
+2004,ESP,Spain,7.74,18.0
+2004,LKA,Sri Lanka,6.22,86.0
+2004,SWE,Sweden,7.47,29.0
+2004,CHE,Switzerland,8.5,4.0
+2004,SYR,Syria,5.53,117.0
+2004,TWN,Taiwan,7.55,26.0
+2004,TZA,Tanzania,6.04,93.0
+2004,THA,Thailand,6.77,69.0
+2004,TGO,Togo,5.65,113.0
+2004,TTO,Trinidad & Tob.,7.15,47.0
+2004,TUN,Tunisia,6.26,85.0
+2004,TUR,Turkey,6.29,83.0
+2004,UGA,Uganda,6.85,62.0
+2004,UKR,Ukraine,5.52,118.0
+2004,ARE,Unit. Arab Em.,7.2,45.0
+2004,GBR,United Kingdom,8.34,6.0
+2004,USA,United States,8.42,5.0
+2004,URY,Uruguay,7.13,48.0
+2004,VEN,Venezuela,4.91,123.0
+2004,VNM,Vietnam,6.05,92.0
+2004,ZMB,Zambia,6.8,67.0
+2004,ZWE,Zimbabwe,3.25,130.0
+2003,ALB,Albania,7.37,34.0
+2003,DZA,Algeria,4.95,119.0
+2003,ARG,Argentina,6.16,86.0
+2003,AUS,Australia,8.06,8.0
+2003,AUT,Austria,7.94,13.0
+2003,BHS,Bahamas,7.07,48.0
+2003,BHR,Bahrain,7.2,42.0
+2003,BGD,Bangladesh,5.82,104.0
+2003,BRD,Barbados,5.83,103.0
+2003,BEL,Belgium,7.55,24.0
+2003,BLZ,Belize,6.56,68.0
+2003,BEN,Benin,6.03,95.0
+2003,BOL,Bolivia,6.47,75.0
+2003,BWA,Botswana,7.05,49.0
+2003,BRA,Brazil,6.08,92.0
+2003,BGR,Bulgaria,6.81,62.0
+2003,BDI,Burundi,4.82,122.0
+2003,CMR,Cameroon,5.75,106.0
+2003,CAN,Canada,8.16,7.0
+2003,CAF,Central Afr. Rep.,5.43,115.0
+2003,TCD,Chad,5.58,112.0
+2003,CHL,Chile,7.76,17.0
+2003,CHN,China,6.15,88.0
+2003,COL,Colombia,6.4,77.0
+2003,COD,"Congo, Dem. R.",4.94,120.0
+2003,COG,"Congo, Rep. Of",4.72,124.0
+2003,CRI,Costa Rica,7.4,31.0
+2003,CIV,Cote d'Ivoire,5.71,107.0
+2003,HRV,Croatia,6.3,81.0
+2003,CYP,Cyprus,7.01,51.0
+2003,CZE,Czech Rep.,6.82,61.0
+2003,DNK,Denmark,8.01,11.0
+2003,DOM,Dominican Rep.,6.31,80.0
+2003,ECU,Ecuador,6.25,82.0
+2003,EGY,Egypt,5.87,102.0
+2003,SLV,El Salvador,7.55,24.0
+2003,EST,Estonia,7.84,16.0
+2003,FJI,Fiji,6.53,69.0
+2003,FIN,Finland,7.9,14.0
+2003,FRA,France,7.33,39.0
+2003,GAB,Gabon,5.47,114.0
+2003,GEO,Georgia,7.11,46.0
+2003,DEU,Germany,7.76,17.0
+2003,GHA,Ghana,6.5,72.0
+2003,GRC,Greece,7.34,38.0
+2003,GTM,Guatemala,7.05,49.0
+2003,GNB,Guinea-Bissau,4.94,120.0
+2003,GUY,Guyana,6.23,83.0
+2003,HTI,Haiti,6.68,67.0
+2003,HND,Honduras,6.92,58.0
+2003,HKG,Hong Kong,8.85,1.0
+2003,HUN,Hungary,7.09,47.0
+2003,ISL,Iceland,8.03,9.0
+2003,IND,India,6.37,79.0
+2003,IDN,Indonesia,6.12,89.0
+2003,IRN,Iran,5.89,100.0
+2003,IRL,Ireland,8.03,9.0
+2003,ISR,Israel,7.25,40.0
+2003,ITA,Italy,7.19,44.0
+2003,JAM,Jamaica,7.46,29.0
+2003,JPN,Japan,7.85,15.0
+2003,JOR,Jordan,6.99,54.0
+2003,KEN,Kenya,6.93,57.0
+2003,KOR,"Korea, South",7.35,36.0
+2003,KWT,Kuwait,7.51,28.0
+2003,LVA,Latvia,7.54,27.0
+2003,LTU,Lithuania,7.2,42.0
+2003,LUX,Luxembourg,7.97,12.0
+2003,MKD,Macedonia,6.19,84.0
+2003,MDG,Madagascar,6.0,96.0
+2003,MWI,Malawi,6.12,89.0
+2003,MYS,Malaysia,6.42,76.0
+2003,MLI,Mali,5.95,99.0
+2003,MLT,Malta,6.52,71.0
+2003,MUS,Mauritius,7.21,41.0
+2003,MEX,Mexico,6.72,65.0
+2003,MAR,Morocco,6.04,93.0
+2003,MOZ,Mozambique,5.88,101.0
+2003,MMR,Myanmar,3.45,127.0
+2003,NAM,Namibia,6.72,65.0
+2003,NPL,Nepal,5.65,108.0
+2003,NLD,Netherlands,7.72,20.0
+2003,NZL,New Zealand,8.49,4.0
+2003,NIC,Nicaragua,6.99,54.0
+2003,NER,Niger,4.76,123.0
+2003,NGA,Nigeria,5.52,113.0
+2003,NOR,Norway,7.66,21.0
+2003,OMN,Oman,7.57,23.0
+2003,PAK,Pakistan,5.63,110.0
+2003,PAN,Panama,7.55,24.0
+2003,PNG,Pap. New Guinea,6.0,96.0
+2003,PRY,Paraguay,6.53,69.0
+2003,PER,Peru,7.41,30.0
+2003,PHL,Philippines,7.0,53.0
+2003,POL,Poland,6.49,73.0
+2003,PRT,Portugal,7.39,32.0
+2003,ROU,Romania,6.49,73.0
+2003,RUS,Russia,5.98,98.0
+2003,RWA,Rwanda,6.09,91.0
+2003,SEN,Senegal,5.65,108.0
+2003,SLE,Sierra Leone,5.36,116.0
+2003,SGP,Singapore,8.73,2.0
+2003,SVK,Slovak Rep,6.95,56.0
+2003,SVN,Slovenia,6.88,60.0
+2003,ZAF,South Africa,7.12,45.0
+2003,ESP,Spain,7.73,19.0
+2003,LKA,Sri Lanka,6.39,78.0
+2003,SWE,Sweden,7.61,22.0
+2003,CHE,Switzerland,8.56,3.0
+2003,SYR,Syria,5.13,118.0
+2003,TWN,Taiwan,7.36,35.0
+2003,TZA,Tanzania,6.04,93.0
+2003,THA,Thailand,6.73,64.0
+2003,TGO,Togo,5.81,105.0
+2003,TTO,Trinidad & Tob.,7.38,33.0
+2003,TUN,Tunisia,6.19,84.0
+2003,TUR,Turkey,6.16,86.0
+2003,UGA,Uganda,6.92,58.0
+2003,UKR,Ukraine,5.3,117.0
+2003,ARE,Unit. Arab Em.,7.35,36.0
+2003,GBR,United Kingdom,8.47,5.0
+2003,USA,United States,8.41,6.0
+2003,URY,Uruguay,7.01,51.0
+2003,VEN,Venezuela,4.39,125.0
+2003,VNM,Vietnam,5.61,111.0
+2003,ZMB,Zambia,6.79,63.0
+2003,ZWE,Zimbabwe,3.82,126.0
+2002,ALB,Albania,6.85,58.0
+2002,DZA,Algeria,4.94,116.0
+2002,ARG,Argentina,6.28,79.0
+2002,AUS,Australia,8.05,8.0
+2002,AUT,Austria,7.8,13.0
+2002,BHS,Bahamas,6.72,63.0
+2002,BHR,Bahrain,7.33,35.0
+2002,BGD,Bangladesh,5.89,96.0
+2002,BRD,Barbados,6.05,89.0
+2002,BEL,Belgium,7.52,21.0
+2002,BLZ,Belize,6.49,73.0
+2002,BEN,Benin,6.04,90.0
+2002,BOL,Bolivia,6.57,69.0
+2002,BWA,Botswana,7.22,39.0
+2002,BRA,Brazil,6.23,85.0
+2002,BGR,Bulgaria,6.58,68.0
+2002,BDI,Burundi,5.01,114.0
+2002,CMR,Cameroon,5.68,105.0
+2002,CAN,Canada,8.06,7.0
+2002,CAF,Central Afr. Rep.,4.95,115.0
+2002,TCD,Chad,5.67,106.0
+2002,CHL,Chile,7.6,19.0
+2002,CHN,China,6.09,87.0
+2002,COL,Colombia,6.27,80.0
+2002,COD,"Congo, Dem. R.",4.84,118.0
+2002,COG,"Congo, Rep. Of",4.5,121.0
+2002,CRI,Costa Rica,7.18,42.0
+2002,CIV,Cote d'Ivoire,5.6,107.0
+2002,HRV,Croatia,6.24,84.0
+2002,CYP,Cyprus,7.12,45.0
+2002,CZE,Czech Rep.,6.87,55.0
+2002,DNK,Denmark,7.88,11.0
+2002,DOM,Dominican Rep.,6.76,61.0
+2002,ECU,Ecuador,6.25,82.0
+2002,EGY,Egypt,5.99,93.0
+2002,SLV,El Salvador,7.52,21.0
+2002,EST,Estonia,7.72,15.0
+2002,FJI,Fiji,6.57,69.0
+2002,FIN,Finland,7.9,10.0
+2002,FRA,France,7.32,36.0
+2002,GAB,Gabon,5.4,110.0
+2002,DEU,Germany,7.67,18.0
+2002,GHA,Ghana,6.29,78.0
+2002,GRC,Greece,7.01,46.0
+2002,GTM,Guatemala,6.95,50.0
+2002,GNB,Guinea-Bissau,4.93,117.0
+2002,GUY,Guyana,6.34,74.0
+2002,HTI,Haiti,6.55,71.0
+2002,HND,Honduras,6.87,55.0
+2002,HKG,Hong Kong,8.8,1.0
+2002,HUN,Hungary,7.0,47.0
+2002,ISL,Iceland,7.8,13.0
+2002,IND,India,6.27,80.0
+2002,IDN,Indonesia,5.8,100.0
+2002,IRN,Iran,5.78,101.0
+2002,IRL,Ireland,7.85,12.0
+2002,ISR,Israel,7.23,38.0
+2002,ITA,Italy,7.5,25.0
+2002,JAM,Jamaica,7.36,33.0
+2002,JPN,Japan,7.51,24.0
+2002,JOR,Jordan,7.0,47.0
+2002,KEN,Kenya,6.85,58.0
+2002,KOR,"Korea, South",7.22,39.0
+2002,KWT,Kuwait,7.48,29.0
+2002,LVA,Latvia,7.69,17.0
+2002,LTU,Lithuania,7.18,42.0
+2002,LUX,Luxembourg,7.93,9.0
+2002,MDG,Madagascar,5.88,97.0
+2002,MWI,Malawi,5.71,104.0
+2002,MYS,Malaysia,6.34,74.0
+2002,MLI,Mali,5.5,109.0
+2002,MLT,Malta,6.88,54.0
+2002,MUS,Mauritius,7.29,37.0
+2002,MEX,Mexico,6.73,62.0
+2002,MAR,Morocco,5.9,94.0
+2002,MMR,Myanmar,3.34,123.0
+2002,NAM,Namibia,6.62,65.0
+2002,NPL,Nepal,5.87,98.0
+2002,NLD,Netherlands,7.72,15.0
+2002,NZL,New Zealand,8.46,4.0
+2002,NIC,Nicaragua,6.93,52.0
+2002,NER,Niger,4.81,119.0
+2002,NGA,Nigeria,5.53,108.0
+2002,NOR,Norway,7.14,44.0
+2002,OMN,Oman,7.52,21.0
+2002,PAK,Pakistan,5.85,99.0
+2002,PAN,Panama,7.49,27.0
+2002,PNG,Pap. New Guinea,6.06,88.0
+2002,PRY,Paraguay,6.59,66.0
+2002,PER,Peru,7.42,30.0
+2002,PHL,Philippines,6.95,50.0
+2002,POL,Poland,6.59,66.0
+2002,PRT,Portugal,7.4,31.0
+2002,ROU,Romania,6.31,76.0
+2002,RUS,Russia,5.9,94.0
+2002,RWA,Rwanda,6.31,76.0
+2002,SEN,Senegal,5.74,103.0
+2002,SLE,Sierra Leone,5.06,113.0
+2002,SGP,Singapore,8.79,2.0
+2002,SVK,Slovak Rep,6.87,55.0
+2002,SVN,Slovenia,6.77,60.0
+2002,ZAF,South Africa,6.98,49.0
+2002,ESP,Spain,7.5,25.0
+2002,LKA,Sri Lanka,6.25,82.0
+2002,SWE,Sweden,7.53,20.0
+2002,CHE,Switzerland,8.64,3.0
+2002,SYR,Syria,5.17,112.0
+2002,TWN,Taiwan,7.34,34.0
+2002,TZA,Tanzania,6.03,91.0
+2002,THA,Thailand,6.67,64.0
+2002,TGO,Togo,6.03,91.0
+2002,TTO,Trinidad & Tob.,7.49,27.0
+2002,TUN,Tunisia,6.19,86.0
+2002,TUR,Turkey,5.76,102.0
+2002,UGA,Uganda,6.92,53.0
+2002,UKR,Ukraine,5.4,110.0
+2002,ARE,Unit. Arab Em.,7.4,31.0
+2002,GBR,United Kingdom,8.46,4.0
+2002,USA,United States,8.42,6.0
+2002,URY,Uruguay,7.19,41.0
+2002,VEN,Venezuela,4.78,120.0
+2002,ZMB,Zambia,6.52,72.0
+2002,ZWE,Zimbabwe,3.74,122.0
+2001,ALB,Albania,6.6,66.0
+2001,DZA,Algeria,4.99,115.0
+2001,ARG,Argentina,6.84,56.0
+2001,AUS,Australia,8.07,9.0
+2001,AUT,Austria,7.84,14.0
+2001,BHS,Bahamas,6.75,61.0
+2001,BHR,Bahrain,7.33,35.0
+2001,BGD,Bangladesh,5.81,93.0
+2001,BRD,Barbados,6.15,82.0
+2001,BEL,Belgium,7.41,30.0
+2001,BLZ,Belize,6.28,75.0
+2001,BEN,Benin,5.57,104.0
+2001,BOL,Bolivia,6.88,52.0
+2001,BWA,Botswana,7.2,41.0
+2001,BRA,Brazil,5.98,87.0
+2001,BGR,Bulgaria,6.11,83.0
+2001,BDI,Burundi,5.07,114.0
+2001,CMR,Cameroon,5.78,95.0
+2001,CAN,Canada,8.2,7.0
+2001,CAF,Central Afr. Rep.,5.2,112.0
+2001,TCD,Chad,5.42,110.0
+2001,CHL,Chile,7.37,33.0
+2001,CHN,China,5.84,92.0
+2001,COL,Colombia,6.23,78.0
+2001,COD,"Congo, Dem. R.",3.93,121.0
+2001,COG,"Congo, Rep. Of",4.66,119.0
+2001,CRI,Costa Rica,7.32,36.0
+2001,CIV,Cote d'Ivoire,5.68,99.0
+2001,HRV,Croatia,6.0,86.0
+2001,CYP,Cyprus,6.65,64.0
+2001,CZE,Czech Rep.,6.82,57.0
+2001,DNK,Denmark,7.88,13.0
+2001,DOM,Dominican Rep.,6.97,48.0
+2001,ECU,Ecuador,5.76,98.0
+2001,EGY,Egypt,6.3,74.0
+2001,SLV,El Salvador,7.59,19.0
+2001,EST,Estonia,7.67,16.0
+2001,FJI,Fiji,6.51,69.0
+2001,FIN,Finland,7.9,12.0
+2001,FRA,France,7.23,38.0
+2001,GAB,Gabon,5.56,105.0
+2001,DEU,Germany,7.65,17.0
+2001,GHA,Ghana,5.88,91.0
+2001,GRC,Greece,6.88,52.0
+2001,GTM,Guatemala,6.89,50.0
+2001,GNB,Guinea-Bissau,4.87,117.0
+2001,GUY,Guyana,6.27,77.0
+2001,HTI,Haiti,6.47,70.0
+2001,HND,Honduras,6.75,61.0
+2001,HKG,Hong Kong,8.89,1.0
+2001,HUN,Hungary,7.39,32.0
+2001,ISL,Iceland,7.91,11.0
+2001,IND,India,6.1,84.0
+2001,IDN,Indonesia,5.56,105.0
+2001,IRN,Iran,5.93,89.0
+2001,IRL,Ireland,7.96,10.0
+2001,ISR,Israel,6.87,54.0
+2001,ITA,Italy,7.47,26.0
+2001,JAM,Jamaica,7.4,31.0
+2001,JPN,Japan,7.65,17.0
+2001,JOR,Jordan,6.89,50.0
+2001,KEN,Kenya,7.1,43.0
+2001,KOR,"Korea, South",7.21,39.0
+2001,KWT,Kuwait,7.45,27.0
+2001,LVA,Latvia,7.53,22.0
+2001,LTU,Lithuania,6.87,54.0
+2001,LUX,Luxembourg,8.18,8.0
+2001,MDG,Madagascar,6.17,80.0
+2001,MWI,Malawi,5.6,103.0
+2001,MYS,Malaysia,6.32,73.0
+2001,MLI,Mali,5.51,109.0
+2001,MLT,Malta,6.98,47.0
+2001,MUS,Mauritius,7.45,27.0
+2001,MEX,Mexico,6.54,68.0
+2001,MAR,Morocco,5.78,95.0
+2001,MMR,Myanmar,3.72,123.0
+2001,NAM,Namibia,6.4,72.0
+2001,NPL,Nepal,5.8,94.0
+2001,NLD,Netherlands,7.75,15.0
+2001,NZL,New Zealand,8.48,4.0
+2001,NIC,Nicaragua,6.63,65.0
+2001,NER,Niger,4.72,118.0
+2001,NGA,Nigeria,5.2,112.0
+2001,NOR,Norway,7.26,37.0
+2001,OMN,Oman,7.51,24.0
+2001,PAK,Pakistan,5.61,102.0
+2001,PAN,Panama,7.55,21.0
+2001,PNG,Pap. New Guinea,6.1,84.0
+2001,PRY,Paraguay,6.72,63.0
+2001,PER,Peru,7.48,25.0
+2001,PHL,Philippines,6.76,60.0
+2001,POL,Poland,6.47,70.0
+2001,PRT,Portugal,7.36,34.0
+2001,ROU,Romania,5.77,97.0
+2001,RUS,Russia,5.55,107.0
+2001,RWA,Rwanda,5.96,88.0
+2001,SEN,Senegal,5.54,108.0
+2001,SLE,Sierra Leone,4.44,120.0
+2001,SGP,Singapore,8.67,2.0
+2001,SVK,Slovak Rep,6.81,58.0
+2001,SVN,Slovenia,6.81,58.0
+2001,ZAF,South Africa,7.02,46.0
+2001,ESP,Spain,7.59,19.0
+2001,LKA,Sri Lanka,6.28,75.0
+2001,SWE,Sweden,7.44,29.0
+2001,CHE,Switzerland,8.55,3.0
+2001,SYR,Syria,5.26,111.0
+2001,TWN,Taiwan,7.21,39.0
+2001,TZA,Tanzania,6.21,79.0
+2001,THA,Thailand,6.6,66.0
+2001,TGO,Togo,5.64,100.0
+2001,TTO,Trinidad & Tob.,7.53,22.0
+2001,TUN,Tunisia,6.16,81.0
+2001,TUR,Turkey,5.63,101.0
+2001,UGA,Uganda,7.09,44.0
+2001,UKR,Ukraine,4.92,116.0
+2001,ARE,Unit. Arab Em.,7.18,42.0
+2001,GBR,United Kingdom,8.45,6.0
+2001,USA,United States,8.47,5.0
+2001,URY,Uruguay,7.04,45.0
+2001,VEN,Venezuela,5.9,90.0
+2001,ZMB,Zambia,6.91,49.0
+2001,ZWE,Zimbabwe,3.87,122.0
+2000,ALB,Albania,6.53,73.0
+2000,DZA,Algeria,4.91,115.0
+2000,ARG,Argentina,7.34,37.0
+2000,AUS,Australia,8.19,8.0
+2000,AUT,Austria,7.96,14.0
+2000,BHS,Bahamas,6.66,64.0
+2000,BHR,Bahrain,7.42,34.0
+2000,BGD,Bangladesh,5.91,87.0
+2000,BRD,Barbados,6.13,80.0
+2000,BEL,Belgium,7.76,19.0
+2000,BLZ,Belize,6.39,76.0
+2000,BEN,Benin,5.25,109.0
+2000,BOL,Bolivia,6.97,49.0
+2000,BWA,Botswana,7.44,33.0
+2000,BRA,Brazil,5.98,85.0
+2000,BGR,Bulgaria,5.55,105.0
+2000,BDI,Burundi,4.8,116.0
+2000,CMR,Cameroon,5.61,102.0
+2000,CAN,Canada,8.27,7.0
+2000,CAF,Central Afr. Rep.,5.09,111.0
+2000,TCD,Chad,5.43,108.0
+2000,CHL,Chile,7.36,35.0
+2000,CHN,China,5.75,96.0
+2000,COL,Colombia,5.67,100.0
+2000,COD,"Congo, Dem. R.",4.01,122.0
+2000,COG,"Congo, Rep. Of",4.26,121.0
+2000,CRI,Costa Rica,7.46,31.0
+2000,CIV,Cote d'Ivoire,5.78,94.0
+2000,HRV,Croatia,6.28,78.0
+2000,CYP,Cyprus,6.64,67.0
+2000,CZE,Czech Rep.,6.74,62.0
+2000,DNK,Denmark,8.06,11.0
+2000,DOM,Dominican Rep.,6.82,60.0
+2000,ECU,Ecuador,5.86,90.0
+2000,EGY,Egypt,6.51,74.0
+2000,SLV,El Salvador,7.72,20.0
+2000,EST,Estonia,7.6,23.0
+2000,FJI,Fiji,6.65,65.0
+2000,FIN,Finland,7.98,13.0
+2000,FRA,France,7.47,29.0
+2000,GAB,Gabon,5.71,99.0
+2000,DEU,Germany,7.8,17.0
+2000,GHA,Ghana,5.82,93.0
+2000,GRC,Greece,6.97,49.0
+2000,GTM,Guatemala,6.85,58.0
+2000,GNB,Guinea-Bissau,4.3,120.0
+2000,GUY,Guyana,6.45,75.0
+2000,HTI,Haiti,7.06,44.0
+2000,HND,Honduras,6.9,56.0
+2000,HKG,Hong Kong,8.92,1.0
+2000,HUN,Hungary,7.01,47.0
+2000,ISL,Iceland,7.99,12.0
+2000,IND,India,6.22,79.0
+2000,IDN,Indonesia,5.86,90.0
+2000,IRN,Iran,5.57,104.0
+2000,IRL,Ireland,8.08,10.0
+2000,ISR,Israel,6.84,59.0
+2000,ITA,Italy,7.59,24.0
+2000,JAM,Jamaica,7.53,27.0
+2000,JPN,Japan,7.93,16.0
+2000,JOR,Jordan,7.06,44.0
+2000,KEN,Kenya,7.07,43.0
+2000,KOR,"Korea, South",6.92,53.0
+2000,KWT,Kuwait,6.97,49.0
+2000,LVA,Latvia,7.24,39.0
+2000,LTU,Lithuania,6.92,53.0
+2000,LUX,Luxembourg,8.18,9.0
+2000,MDG,Madagascar,5.87,89.0
+2000,MWI,Malawi,5.05,112.0
+2000,MYS,Malaysia,6.64,67.0
+2000,MLI,Mali,5.99,84.0
+2000,MLT,Malta,6.98,48.0
+2000,MUS,Mauritius,7.54,26.0
+2000,MEX,Mexico,6.6,69.0
+2000,MAR,Morocco,5.93,86.0
+2000,MMR,Myanmar,3.65,123.0
+2000,NAM,Namibia,6.65,65.0
+2000,NPL,Nepal,5.78,94.0
+2000,NLD,Netherlands,7.96,14.0
+2000,NZL,New Zealand,8.58,5.0
+2000,NIC,Nicaragua,6.91,55.0
+2000,NER,Niger,5.02,113.0
+2000,NGA,Nigeria,5.17,110.0
+2000,NOR,Norway,7.36,35.0
+2000,OMN,Oman,7.47,29.0
+2000,PAK,Pakistan,5.55,105.0
+2000,PAN,Panama,7.61,22.0
+2000,PNG,Pap. New Guinea,6.13,80.0
+2000,PRY,Paraguay,6.79,61.0
+2000,PER,Peru,7.48,28.0
+2000,PHL,Philippines,6.97,49.0
+2000,POL,Poland,6.55,72.0
+2000,PRT,Portugal,7.46,31.0
+2000,ROU,Romania,5.73,98.0
+2000,RUS,Russia,5.5,107.0
+2000,RWA,Rwanda,5.74,97.0
+2000,SEN,Senegal,5.61,102.0
+2000,SLE,Sierra Leone,4.68,118.0
+2000,SGP,Singapore,8.7,3.0
+2000,SVK,Slovak Rep,6.89,57.0
+2000,SVN,Slovenia,6.58,71.0
+2000,ZAF,South Africa,7.04,46.0
+2000,ESP,Spain,7.77,18.0
+2000,LKA,Sri Lanka,6.31,77.0
+2000,SWE,Sweden,7.67,21.0
+2000,CHE,Switzerland,8.73,2.0
+2000,SYR,Syria,4.95,114.0
+2000,TWN,Taiwan,7.29,38.0
+2000,TZA,Tanzania,6.11,82.0
+2000,THA,Thailand,6.6,69.0
+2000,TGO,Togo,5.65,101.0
+2000,TTO,Trinidad & Tob.,7.58,25.0
+2000,TUN,Tunisia,6.1,83.0
+2000,TUR,Turkey,5.84,92.0
+2000,UGA,Uganda,7.13,41.0
+2000,UKR,Ukraine,4.71,117.0
+2000,ARE,Unit. Arab Em.,7.15,40.0
+2000,GBR,United Kingdom,8.56,6.0
+2000,USA,United States,8.62,4.0
+2000,URY,Uruguay,7.1,42.0
+2000,VEN,Venezuela,5.89,88.0
+2000,ZMB,Zambia,6.72,63.0
+2000,ZWE,Zimbabwe,4.51,119.0
+1995,ALB,Albania,5.01,96.0
+1995,DZA,Algeria,3.94,117.0
+1995,ARG,Argentina,6.95,37.0
+1995,AUS,Australia,7.95,10.0
+1995,AUT,Austria,7.15,30.0
+1995,BHS,Bahamas,6.41,50.0
+1995,BHR,Bahrain,6.91,38.0
+1995,BGD,Bangladesh,5.3,88.0
+1995,BRD,Barbados,6.01,64.0
+1995,BEL,Belgium,7.32,25.0
+1995,BLZ,Belize,6.63,44.0
+1995,BEN,Benin,4.2,112.0
+1995,BOL,Bolivia,6.84,39.0
+1995,BWA,Botswana,6.4,52.0
+1995,BRA,Brazil,4.66,103.0
+1995,BGR,Bulgaria,4.82,101.0
+1995,BDI,Burundi,4.3,111.0
+1995,CMR,Cameroon,5.33,85.0
+1995,CAN,Canada,8.08,8.0
+1995,CAF,Central Afr. Rep.,4.63,104.0
+1995,TCD,Chad,5.09,92.0
+1995,CHL,Chile,7.37,22.0
+1995,CHN,China,5.07,95.0
+1995,COL,Colombia,5.48,79.0
+1995,COD,"Congo, Dem. R.",3.41,120.0
+1995,COG,"Congo, Rep. Of",4.96,99.0
+1995,CRI,Costa Rica,7.33,24.0
+1995,CIV,Cote d'Ivoire,5.0,97.0
+1995,HRV,Croatia,5.08,94.0
+1995,CYP,Cyprus,6.34,54.0
+1995,CZE,Czech Rep.,5.76,72.0
+1995,DNK,Denmark,7.73,14.0
+1995,DOM,Dominican Rep.,6.12,60.0
+1995,ECU,Ecuador,6.31,55.0
+1995,EGY,Egypt,5.79,71.0
+1995,SLV,El Salvador,7.64,16.0
+1995,EST,Estonia,6.23,57.0
+1995,FJI,Fiji,6.11,61.0
+1995,FIN,Finland,7.52,19.0
+1995,FRA,France,6.97,36.0
+1995,GAB,Gabon,5.3,88.0
+1995,DEU,Germany,7.62,17.0
+1995,GHA,Ghana,5.43,81.0
+1995,GRC,Greece,6.4,52.0
+1995,GTM,Guatemala,7.15,30.0
+1995,GNB,Guinea-Bissau,3.12,122.0
+1995,GUY,Guyana,5.0,97.0
+1995,HTI,Haiti,5.43,81.0
+1995,HND,Honduras,6.52,47.0
+1995,HKG,Hong Kong,9.11,1.0
+1995,HUN,Hungary,6.17,58.0
+1995,ISL,Iceland,7.73,14.0
+1995,IND,India,5.76,72.0
+1995,IDN,Indonesia,6.3,56.0
+1995,IRN,Iran,4.04,115.0
+1995,IRL,Ireland,8.25,5.0
+1995,ISR,Israel,5.91,66.0
+1995,ITA,Italy,6.62,45.0
+1995,JAM,Jamaica,6.8,40.0
+1995,JPN,Japan,7.4,20.0
+1995,JOR,Jordan,6.14,59.0
+1995,KEN,Kenya,5.85,68.0
+1995,KOR,"Korea, South",6.58,46.0
+1995,KWT,Kuwait,6.41,50.0
+1995,LVA,Latvia,5.68,75.0
+1995,LTU,Lithuania,5.47,80.0
+1995,LUX,Luxembourg,7.9,11.0
+1995,MDG,Madagascar,4.44,105.0
+1995,MWI,Malawi,4.31,110.0
+1995,MYS,Malaysia,7.36,23.0
+1995,MLI,Mali,4.84,100.0
+1995,MLT,Malta,7.0,35.0
+1995,MUS,Mauritius,7.81,13.0
+1995,MEX,Mexico,6.46,49.0
+1995,MAR,Morocco,5.85,68.0
+1995,MMR,Myanmar,3.21,121.0
+1995,NAM,Namibia,5.64,76.0
+1995,NPL,Nepal,5.33,85.0
+1995,NLD,Netherlands,7.96,9.0
+1995,NZL,New Zealand,8.84,3.0
+1995,NIC,Nicaragua,6.02,63.0
+1995,NER,Niger,4.04,115.0
+1995,NGA,Nigeria,3.81,118.0
+1995,NOR,Norway,7.57,18.0
+1995,OMN,Oman,6.67,43.0
+1995,PAK,Pakistan,5.55,78.0
+1995,PAN,Panama,7.86,12.0
+1995,PNG,Pap. New Guinea,6.06,62.0
+1995,PRY,Paraguay,7.04,34.0
+1995,PER,Peru,6.47,48.0
+1995,PHL,Philippines,7.1,32.0
+1995,POL,Poland,5.28,90.0
+1995,PRT,Portugal,7.4,20.0
+1995,ROU,Romania,4.15,113.0
+1995,RUS,Russia,4.33,107.0
+1995,RWA,Rwanda,3.71,119.0
+1995,SEN,Senegal,4.32,109.0
+1995,SLE,Sierra Leone,4.33,107.0
+1995,SGP,Singapore,8.88,2.0
+1995,SVK,Slovak Rep,5.42,83.0
+1995,SVN,Slovenia,5.31,87.0
+1995,ZAF,South Africa,5.9,67.0
+1995,ESP,Spain,7.18,29.0
+1995,LKA,Sri Lanka,6.0,65.0
+1995,SWE,Sweden,7.32,25.0
+1995,CHE,Switzerland,8.16,7.0
+1995,SYR,Syria,4.08,114.0
+1995,TWN,Taiwan,7.29,27.0
+1995,TZA,Tanzania,5.36,84.0
+1995,THA,Thailand,7.07,33.0
+1995,TGO,Togo,5.27,91.0
+1995,TTO,Trinidad & Tob.,7.27,28.0
+1995,TUN,Tunisia,5.58,77.0
+1995,TUR,Turkey,5.69,74.0
+1995,UGA,Uganda,5.09,92.0
+1995,UKR,Ukraine,3.03,123.0
+1995,ARE,Unit. Arab Em.,6.71,42.0
+1995,GBR,United Kingdom,8.21,6.0
+1995,USA,United States,8.48,4.0
+1995,URY,Uruguay,6.74,41.0
+1995,VEN,Venezuela,4.35,106.0
+1995,ZMB,Zambia,4.76,102.0
+1995,ZWE,Zimbabwe,5.84,70.0
+1990,ALB,Albania,4.58,89.0
+1990,DZA,Algeria,3.33,106.0
+1990,ARG,Argentina,4.47,92.0
+1990,AUS,Australia,7.73,10.0
+1990,AUT,Austria,6.95,24.0
+1990,BHS,Bahamas,6.44,33.0
+1990,BHR,Bahrain,6.62,29.0
+1990,BGD,Bangladesh,4.45,93.0
+1990,BRD,Barbados,5.99,41.0
+1990,BEL,Belgium,7.56,12.0
+1990,BLZ,Belize,5.9,45.0
+1990,BEN,Benin,4.54,90.0
+1990,BOL,Bolivia,5.62,51.0
+1990,BWA,Botswana,5.92,44.0
+1990,BRA,Brazil,4.23,98.0
+1990,BGR,Bulgaria,4.17,99.0
+1990,BDI,Burundi,4.66,87.0
+1990,CMR,Cameroon,5.5,55.0
+1990,CAN,Canada,8.17,6.0
+1990,CAF,Central Afr. Rep.,4.87,80.0
+1990,TCD,Chad,5.13,67.0
+1990,CHL,Chile,6.61,30.0
+1990,CHN,China,4.09,100.0
+1990,COL,Colombia,5.02,68.0
+1990,COD,"Congo, Dem. R.",3.12,108.0
+1990,COG,"Congo, Rep. Of",4.77,84.0
+1990,CRI,Costa Rica,6.98,22.0
+1990,CIV,Cote d'Ivoire,4.91,76.0
+1990,CYP,Cyprus,5.87,47.0
+1990,DNK,Denmark,7.16,16.0
+1990,DOM,Dominican Rep.,4.42,94.0
+1990,ECU,Ecuador,5.47,57.0
+1990,EGY,Egypt,4.41,95.0
+1990,SLV,El Salvador,4.81,81.0
+1990,FJI,Fiji,5.72,49.0
+1990,FIN,Finland,6.99,20.0
+1990,FRA,France,7.04,19.0
+1990,GAB,Gabon,5.39,59.0
+1990,DEU,Germany,7.64,11.0
+1990,GHA,Ghana,4.95,74.0
+1990,GRC,Greece,5.95,42.0
+1990,GTM,Guatemala,5.81,48.0
+1990,GNB,Guinea-Bissau,2.9,110.0
+1990,HTI,Haiti,4.96,73.0
+1990,HND,Honduras,5.7,50.0
+1990,HKG,Hong Kong,8.73,1.0
+1990,HUN,Hungary,4.89,78.0
+1990,ISL,Iceland,6.92,25.0
+1990,IND,India,4.79,83.0
+1990,IDN,Indonesia,6.0,40.0
+1990,IRN,Iran,4.29,97.0
+1990,IRL,Ireland,7.06,18.0
+1990,ISR,Israel,4.48,91.0
+1990,ITA,Italy,6.75,27.0
+1990,JAM,Jamaica,5.62,51.0
+1990,JPN,Japan,7.94,8.0
+1990,JOR,Jordan,5.43,58.0
+1990,KEN,Kenya,5.37,60.0
+1990,KOR,"Korea, South",6.38,34.0
+1990,KWT,Kuwait,4.98,71.0
+1990,LUX,Luxembourg,8.07,7.0
+1990,MDG,Madagascar,4.35,96.0
+1990,MWI,Malawi,5.32,62.0
+1990,MYS,Malaysia,7.26,14.0
+1990,MLI,Mali,5.2,66.0
+1990,MLT,Malta,5.54,54.0
+1990,MUS,Mauritius,6.12,38.0
+1990,MEX,Mexico,6.26,35.0
+1990,MAR,Morocco,4.98,71.0
+1990,MMR,Myanmar,2.66,113.0
+1990,NAM,Namibia,4.9,77.0
+1990,NPL,Nepal,5.37,60.0
+1990,NLD,Netherlands,7.56,12.0
+1990,NZL,New Zealand,7.86,9.0
+1990,NIC,Nicaragua,2.87,111.0
+1990,NER,Niger,4.66,87.0
+1990,NGA,Nigeria,3.5,105.0
+1990,NOR,Norway,6.99,20.0
+1990,OMN,Oman,6.2,36.0
+1990,PAK,Pakistan,4.81,81.0
+1990,PAN,Panama,6.82,26.0
+1990,PNG,Pap. New Guinea,6.07,39.0
+1990,PRY,Paraguay,5.94,43.0
+1990,PER,Peru,3.87,101.0
+1990,PHL,Philippines,5.88,46.0
+1990,POL,Poland,3.51,104.0
+1990,PRT,Portugal,6.2,36.0
+1990,ROU,Romania,5.02,68.0
+1990,RWA,Rwanda,4.89,78.0
+1990,SEN,Senegal,5.02,68.0
+1990,SLE,Sierra Leone,3.81,102.0
+1990,SGP,Singapore,8.49,2.0
+1990,ZAF,South Africa,5.26,64.0
+1990,ESP,Spain,6.56,32.0
+1990,LKA,Sri Lanka,4.76,85.0
+1990,SWE,Sweden,6.96,23.0
+1990,CHE,Switzerland,8.21,4.0
+1990,SYR,Syria,3.32,107.0
+1990,TWN,Taiwan,7.1,17.0
+1990,TZA,Tanzania,3.81,102.0
+1990,THA,Thailand,6.69,28.0
+1990,TGO,Togo,5.31,63.0
+1990,TTO,Trinidad & Tob.,5.5,55.0
+1990,TUN,Tunisia,5.26,64.0
+1990,TUR,Turkey,4.73,86.0
+1990,UGA,Uganda,2.74,112.0
+1990,ARE,Unit. Arab Em.,7.23,15.0
+1990,GBR,United Kingdom,8.18,5.0
+1990,USA,United States,8.48,3.0
+1990,URY,Uruguay,6.6,31.0
+1990,VEN,Venezuela,5.55,53.0
+1990,ZMB,Zambia,3.1,109.0
+1990,ZWE,Zimbabwe,4.94,75.0
+1985,DZA,Algeria,3.59,97.0
+1985,ARG,Argentina,3.53,100.0
+1985,AUS,Australia,7.16,12.0
+1985,AUT,Austria,6.46,21.0
+1985,BHS,Bahamas,6.32,26.0
+1985,BHR,Bahrain,6.6,18.0
+1985,BGD,Bangladesh,3.59,97.0
+1985,BRD,Barbados,6.06,31.0
+1985,BEL,Belgium,7.32,10.0
+1985,BLZ,Belize,5.4,50.0
+1985,BEN,Benin,4.26,89.0
+1985,BOL,Bolivia,3.52,102.0
+1985,BWA,Botswana,5.66,39.0
+1985,BRA,Brazil,2.96,107.0
+1985,BGR,Bulgaria,5.65,40.0
+1985,BDI,Burundi,4.44,84.0
+1985,CMR,Cameroon,5.43,48.0
+1985,CAN,Canada,7.87,5.0
+1985,CAF,Central Afr. Rep.,4.39,85.0
+1985,TCD,Chad,4.45,83.0
+1985,CHL,Chile,5.55,42.0
+1985,CHN,China,4.82,73.0
+1985,COL,Colombia,5.06,62.0
+1985,COD,"Congo, Dem. R.",3.53,100.0
+1985,COG,"Congo, Rep. Of",4.3,88.0
+1985,CRI,Costa Rica,5.33,53.0
+1985,CIV,Cote d'Ivoire,5.34,51.0
+1985,CYP,Cyprus,5.52,43.0
+1985,DNK,Denmark,6.37,25.0
+1985,DOM,Dominican Rep.,5.33,53.0
+1985,ECU,Ecuador,4.6,80.0
+1985,EGY,Egypt,4.72,74.0
+1985,SLV,El Salvador,4.34,87.0
+1985,FJI,Fiji,5.97,34.0
+1985,FIN,Finland,6.77,13.0
+1985,FRA,France,6.03,32.0
+1985,GAB,Gabon,5.28,55.0
+1985,DEU,Germany,7.27,11.0
+1985,GHA,Ghana,3.16,105.0
+1985,GRC,Greece,5.1,60.0
+1985,GTM,Guatemala,5.01,64.0
+1985,GUY,Guyana,3.27,104.0
+1985,HTI,Haiti,4.97,66.0
+1985,HND,Honduras,5.73,38.0
+1985,HKG,Hong Kong,8.34,2.0
+1985,HUN,Hungary,4.48,82.0
+1985,ISL,Iceland,5.42,49.0
+1985,IND,India,4.72,74.0
+1985,IDN,Indonesia,5.79,36.0
+1985,IRN,Iran,3.73,94.0
+1985,IRL,Ireland,6.53,20.0
+1985,ISR,Israel,4.04,92.0
+1985,ITA,Italy,5.78,37.0
+1985,JAM,Jamaica,5.09,61.0
+1985,JPN,Japan,7.55,8.0
+1985,JOR,Jordan,5.5,44.0
+1985,KEN,Kenya,5.28,55.0
+1985,KOR,"Korea, South",5.49,45.0
+1985,KWT,Kuwait,5.46,46.0
+1985,LUX,Luxembourg,8.39,1.0
+1985,MDG,Madagascar,4.21,90.0
+1985,MWI,Malawi,4.89,68.0
+1985,MYS,Malaysia,6.68,15.0
+1985,MLI,Mali,4.88,69.0
+1985,MLT,Malta,5.34,51.0
+1985,MUS,Mauritius,6.38,24.0
+1985,MEX,Mexico,4.67,78.0
+1985,MAR,Morocco,5.0,65.0
+1985,MMR,Myanmar,3.52,102.0
+1985,NPL,Nepal,5.27,57.0
+1985,NLD,Netherlands,7.34,9.0
+1985,NZL,New Zealand,6.29,27.0
+1985,NIC,Nicaragua,1.97,110.0
+1985,NER,Niger,4.51,81.0
+1985,NGA,Nigeria,4.18,91.0
+1985,NOR,Norway,6.39,23.0
+1985,OMN,Oman,6.63,17.0
+1985,PAK,Pakistan,4.83,72.0
+1985,PAN,Panama,6.7,14.0
+1985,PNG,Pap. New Guinea,6.02,33.0
+1985,PRY,Paraguay,5.24,58.0
+1985,PER,Peru,2.47,109.0
+1985,PHL,Philippines,4.92,67.0
+1985,POL,Poland,3.68,96.0
+1985,PRT,Portugal,5.46,46.0
+1985,ROU,Romania,5.58,41.0
+1985,SEN,Senegal,4.85,71.0
+1985,SLE,Sierra Leone,3.71,95.0
+1985,SGP,Singapore,7.65,7.0
+1985,ZAF,South Africa,5.03,63.0
+1985,ESP,Spain,6.14,29.0
+1985,LKA,Sri Lanka,4.71,76.0
+1985,SWE,Sweden,6.45,22.0
+1985,CHE,Switzerland,8.15,4.0
+1985,SYR,Syria,3.01,106.0
+1985,TWN,Taiwan,6.58,19.0
+1985,TZA,Tanzania,3.79,93.0
+1985,THA,Thailand,5.94,35.0
+1985,TGO,Togo,5.14,59.0
+1985,TTO,Trinidad & Tob.,4.86,70.0
+1985,TUN,Tunisia,4.37,86.0
+1985,TUR,Turkey,4.65,79.0
+1985,UGA,Uganda,2.75,108.0
+1985,ARE,Unit. Arab Em.,6.64,16.0
+1985,GBR,United Kingdom,7.71,6.0
+1985,USA,United States,8.26,3.0
+1985,URY,Uruguay,6.16,28.0
+1985,VEN,Venezuela,6.08,30.0
+1985,ZMB,Zambia,3.55,99.0
+1985,ZWE,Zimbabwe,4.69,77.0
+1980,DZA,Algeria,3.79,91.0
+1980,ARG,Argentina,4.25,80.0
+1980,AUS,Australia,6.85,12.0
+1980,AUT,Austria,6.45,18.0
+1980,BHS,Bahamas,6.28,22.0
+1980,BHR,Bahrain,7.39,7.0
+1980,BGD,Bangladesh,3.28,101.0
+1980,BRD,Barbados,5.72,33.0
+1980,BEL,Belgium,7.35,9.0
+1980,BLZ,Belize,5.59,39.0
+1980,BEN,Benin,4.56,70.0
+1980,BOL,Bolivia,4.08,83.0
+1980,BWA,Botswana,5.34,50.0
+1980,BRA,Brazil,3.92,86.0
+1980,BDI,Burundi,3.92,86.0
+1980,CMR,Cameroon,5.55,45.0
+1980,CAN,Canada,7.77,4.0
+1980,CAF,Central Afr. Rep.,4.29,78.0
+1980,CHL,Chile,5.05,57.0
+1980,CHN,China,3.64,94.0
+1980,COL,Colombia,4.59,69.0
+1980,COD,"Congo, Dem. R.",2.84,102.0
+1980,COG,"Congo, Rep. Of",4.67,66.0
+1980,CRI,Costa Rica,5.52,46.0
+1980,CIV,Cote d'Ivoire,5.2,52.0
+1980,CYP,Cyprus,5.56,44.0
+1980,DNK,Denmark,6.24,24.0
+1980,DOM,Dominican Rep.,5.59,39.0
+1980,ECU,Ecuador,5.7,36.0
+1980,EGY,Egypt,4.32,77.0
+1980,SLV,El Salvador,4.12,82.0
+1980,FJI,Fiji,5.57,42.0
+1980,FIN,Finland,6.5,16.0
+1980,FRA,France,6.05,27.0
+1980,GAB,Gabon,4.38,75.0
+1980,DEU,Germany,7.18,11.0
+1980,GHA,Ghana,2.83,103.0
+1980,GRC,Greece,5.72,33.0
+1980,GTM,Guatemala,6.27,23.0
+1980,HTI,Haiti,5.35,49.0
+1980,HND,Honduras,5.44,47.0
+1980,HKG,Hong Kong,8.72,1.0
+1980,HUN,Hungary,4.07,84.0
+1980,ISL,Iceland,5.15,54.0
+1980,IND,India,5.02,58.0
+1980,IDN,Indonesia,4.79,63.0
+1980,IRN,Iran,3.53,97.0
+1980,IRL,Ireland,6.46,17.0
+1980,ISR,Israel,3.5,98.0
+1980,ITA,Italy,5.58,41.0
+1980,JAM,Jamaica,3.98,85.0
+1980,JPN,Japan,7.37,8.0
+1980,JOR,Jordan,5.13,56.0
+1980,KEN,Kenya,4.84,62.0
+1980,KOR,"Korea, South",5.38,48.0
+1980,KWT,Kuwait,3.69,92.0
+1980,LUX,Luxembourg,8.05,3.0
+1980,MDG,Madagascar,3.87,89.0
+1980,MWI,Malawi,4.48,74.0
+1980,MYS,Malaysia,6.61,15.0
+1980,MLI,Mali,5.79,31.0
+1980,MLT,Malta,5.57,42.0
+1980,MUS,Mauritius,4.9,59.0
+1980,MEX,Mexico,5.19,53.0
+1980,MAR,Morocco,4.29,78.0
+1980,MMR,Myanmar,3.81,90.0
+1980,NPL,Nepal,5.77,32.0
+1980,NLD,Netherlands,7.29,10.0
+1980,NZL,New Zealand,6.44,19.0
+1980,NIC,Nicaragua,3.49,99.0
+1980,NER,Niger,4.62,67.0
+1980,NGA,Nigeria,3.44,100.0
+1980,NOR,Norway,5.72,33.0
+1980,PAK,Pakistan,4.25,80.0
+1980,PAN,Panama,6.07,26.0
+1980,PRY,Paraguay,6.24,24.0
+1980,PER,Peru,3.6,95.0
+1980,PHL,Philippines,5.15,54.0
+1980,PRT,Portugal,5.62,38.0
+1980,RWA,Rwanda,4.6,68.0
+1980,SEN,Senegal,4.85,61.0
+1980,SLE,Sierra Leone,4.79,63.0
+1980,SGP,Singapore,7.42,6.0
+1980,ZAF,South Africa,5.23,51.0
+1980,ESP,Spain,5.81,30.0
+1980,LKA,Sri Lanka,4.54,72.0
+1980,SWE,Sweden,5.66,37.0
+1980,CHE,Switzerland,7.62,5.0
+1980,SYR,Syria,3.69,92.0
+1980,TWN,Taiwan,6.32,21.0
+1980,TZA,Tanzania,4.33,76.0
+1980,THA,Thailand,5.86,29.0
+1980,TGO,Togo,3.89,88.0
+1980,TTO,Trinidad & Tob.,4.88,60.0
+1980,TUN,Tunisia,4.55,71.0
+1980,TUR,Turkey,3.59,96.0
+1980,UGA,Uganda,2.71,104.0
+1980,ARE,Unit. Arab Em.,6.01,28.0
+1980,GBR,United Kingdom,6.72,13.0
+1980,USA,United States,8.07,2.0
+1980,URY,Uruguay,6.33,20.0
+1980,VEN,Venezuela,6.72,13.0
+1980,ZMB,Zambia,4.73,65.0
+1980,ZWE,Zimbabwe,4.5,73.0
+1975,ARG,Argentina,3.13,72.0
+1975,AUS,Australia,6.06,17.0
+1975,AUT,Austria,6.04,21.0
+1975,BHS,Bahamas,6.43,14.0
+1975,BGD,Bangladesh,3.29,70.0
+1975,BRD,Barbados,5.67,30.0
+1975,BEL,Belgium,6.75,11.0
+1975,BRA,Brazil,4.19,56.0
+1975,BDI,Burundi,3.97,59.0
+1975,CAN,Canada,7.2,6.0
+1975,CHL,Chile,3.34,69.0
+1975,COL,Colombia,4.62,51.0
+1975,COD,"Congo, Dem. R.",3.92,60.0
+1975,CRI,Costa Rica,6.7,12.0
+1975,CYP,Cyprus,6.04,21.0
+1975,DNK,Denmark,6.09,16.0
+1975,ECU,Ecuador,5.31,38.0
+1975,EGY,Egypt,3.75,63.0
+1975,FJI,Fiji,5.27,39.0
+1975,FIN,Finland,6.05,19.0
+1975,FRA,France,5.81,26.0
+1975,DEU,Germany,6.76,10.0
+1975,GHA,Ghana,3.6,65.0
+1975,GRC,Greece,5.82,25.0
+1975,GTM,Guatemala,7.24,5.0
+1975,HKG,Hong Kong,8.42,2.0
+1975,ISL,Iceland,4.53,52.0
+1975,IND,India,4.27,55.0
+1975,IDN,Indonesia,4.78,50.0
+1975,IRN,Iran,5.64,31.0
+1975,IRL,Ireland,5.96,23.0
+1975,ISR,Israel,4.03,58.0
+1975,ITA,Italy,5.37,36.0
+1975,JPN,Japan,6.83,9.0
+1975,JOR,Jordan,4.83,48.0
+1975,KEN,Kenya,4.8,49.0
+1975,KOR,"Korea, South",5.18,42.0
+1975,LUX,Luxembourg,8.48,1.0
+1975,MWI,Malawi,5.12,43.0
+1975,MYS,Malaysia,6.05,19.0
+1975,MLI,Mali,5.81,26.0
+1975,MUS,Mauritius,5.21,41.0
+1975,MEX,Mexico,5.73,29.0
+1975,MAR,Morocco,4.91,46.0
+1975,NLD,Netherlands,6.6,13.0
+1975,NZL,New Zealand,5.77,28.0
+1975,NER,Niger,5.56,35.0
+1975,NGA,Nigeria,3.85,61.0
+1975,NOR,Norway,5.57,33.0
+1975,PAK,Pakistan,3.51,66.0
+1975,PAN,Panama,7.32,4.0
+1975,PER,Peru,3.5,67.0
+1975,PHL,Philippines,5.02,44.0
+1975,PRT,Portugal,3.74,64.0
+1975,RWA,Rwanda,3.2,71.0
+1975,SLE,Sierra Leone,4.93,45.0
+1975,SGP,Singapore,7.01,8.0
+1975,ZAF,South Africa,5.23,40.0
+1975,ESP,Spain,5.57,33.0
+1975,SWE,Sweden,5.34,37.0
+1975,CHE,Switzerland,7.12,7.0
+1975,SYR,Syria,4.88,47.0
+1975,TWN,Taiwan,5.6,32.0
+1975,TZA,Tanzania,3.46,68.0
+1975,THA,Thailand,5.83,24.0
+1975,TTO,Trinidad & Tob.,4.33,54.0
+1975,TUN,Tunisia,4.49,53.0
+1975,TUR,Turkey,3.83,62.0
+1975,GBR,United Kingdom,6.06,17.0
+1975,USA,United States,7.88,3.0
+1975,VEN,Venezuela,6.22,15.0
+1975,ZMB,Zambia,4.11,57.0
+1970,ARG,Argentina,5.67,33.0
+1970,AUS,Australia,6.93,14.0
+1970,AUT,Austria,6.51,19.0
+1970,BEL,Belgium,7.44,6.0
+1970,BRA,Brazil,5.28,38.0
+1970,CAN,Canada,8.0,3.0
+1970,CHL,Chile,3.58,53.0
+1970,COL,Colombia,4.81,41.0
+1970,COD,"Congo, Dem. R.",4.26,51.0
+1970,DNK,Denmark,7.39,9.0
+1970,ECU,Ecuador,4.22,52.0
+1970,FIN,Finland,7.12,11.0
+1970,FRA,France,6.51,19.0
+1970,DEU,Germany,7.4,8.0
+1970,GRC,Greece,6.47,21.0
+1970,GTM,Guatemala,6.69,17.0
+1970,HKG,Hong Kong,8.34,1.0
+1970,ISL,Iceland,5.95,28.0
+1970,IND,India,5.08,40.0
+1970,IDN,Indonesia,4.27,50.0
+1970,IRN,Iran,5.77,32.0
+1970,IRL,Ireland,6.75,16.0
+1970,ISR,Israel,4.79,42.0
+1970,ITA,Italy,6.37,23.0
+1970,JPN,Japan,7.68,5.0
+1970,KEN,Kenya,5.11,39.0
+1970,KOR,"Korea, South",5.84,31.0
+1970,LUX,Luxembourg,8.01,2.0
+1970,MDG,Madagascar,5.43,35.0
+1970,MYS,Malaysia,6.25,24.0
+1970,MEX,Mexico,6.78,15.0
+1970,MAR,Morocco,4.74,43.0
+1970,NLD,Netherlands,7.01,13.0
+1970,NZL,New Zealand,6.62,18.0
+1970,NGA,Nigeria,4.28,49.0
+1970,NOR,Norway,6.19,26.0
+1970,PAK,Pakistan,4.45,46.0
+1970,PER,Peru,4.62,44.0
+1970,PHL,Philippines,5.3,37.0
+1970,PRT,Portugal,5.51,34.0
+1970,SGP,Singapore,7.08,12.0
+1970,ZAF,South Africa,5.91,30.0
+1970,ESP,Spain,6.12,27.0
+1970,SWE,Sweden,5.31,36.0
+1970,CHE,Switzerland,7.41,7.0
+1970,SYR,Syria,4.61,45.0
+1970,TWN,Taiwan,6.4,22.0
+1970,TZA,Tanzania,4.36,48.0
+1970,THA,Thailand,6.2,25.0
+1970,TUN,Tunisia,4.44,47.0
+1970,TUR,Turkey,3.52,54.0
+1970,GBR,United Kingdom,5.94,29.0
+1970,USA,United States,7.77,4.0
+1970,VEN,Venezuela,7.18,10.0
