@@ -40,7 +40,6 @@ def main():
             # print("Not", column)
             freedom.drop(columns = [column], inplace=True)
 
-
     print("////////////////////////////////////////////////////////")
     freedom.dropna(inplace= True)
     print(freedom.head())
@@ -57,20 +56,6 @@ def main():
     birth.dropna(inplace=True)
     birth.replace(',', '', regex = True, inplace=True)
     print(birth.head())
-
-    # Testing data grab
-    # for _, row in birth.iterrows():
-    #     if row['code'] == "USA":
-    #         print(row)
-    #         print()
-    #         year = "1970"
-    #         fert = "f" + year
-
-    #         print(row[fert])
-
-    # Plotting
-    # freedom.hist(bins= 50, figsize= (20,15))
-    # plt.show()
 
     freedom.to_csv('freedom.csv', index=False)
     birth.to_csv('birth.csv', index = False)

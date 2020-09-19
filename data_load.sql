@@ -113,5 +113,3 @@ CREATE TABLE birth(
 
 \COPY freedom (year, ISO, country, EF, rank) FROM '/home/christian/Documents/Database/freedom.csv' DELIMITER ',' CSV HEADER;
 \COPY birth FROM '/home/christian/Documents/Database/birth.csv' DELIMITER ',' CSV HEADER;
-
-sudo -u postgres psql -f data_load.sql
